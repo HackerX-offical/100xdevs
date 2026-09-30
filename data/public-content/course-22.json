@@ -1,0 +1,1751 @@
+{
+  "listing": {
+    "id": "22",
+    "slug": "web3-bootcamp",
+    "title": "Web3 Bootcamp",
+    "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/a6f6fa88a5f5b09290dd9fb78fa856e6c67957afd7c565c98225644f2506ee60.jpg",
+    "logo": null,
+    "price": 3999,
+    "mrp": 5999,
+    "currency": "INR",
+    "examName": null,
+    "examCategory": null,
+    "isCombo": false,
+    "validity": "36 months",
+    "validityMonths": 36,
+    "enabled": true,
+    "categoryId": null,
+    "videoCount": 0,
+    "pdfCount": 0,
+    "testCount": 0
+  },
+  "meta": {
+    "data": {
+      "id": "22",
+      "slug": "web3-bootcamp",
+      "title": "Web3 Bootcamp",
+      "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/a6f6fa88a5f5b09290dd9fb78fa856e6c67957afd7c565c98225644f2506ee60.jpg",
+      "logo": null,
+      "price": 3999,
+      "mrp": 5999,
+      "currency": "INR",
+      "examName": null,
+      "examCategory": null,
+      "isCombo": false,
+      "validity": "36 months",
+      "validityMonths": 36,
+      "enabled": true,
+      "categoryId": null,
+      "videoCount": 156,
+      "pdfCount": 0,
+      "testCount": 0,
+      "description": "<p>Complete Solana and Web3 Bootcamp</p>\n<p><img src=\"https://appx-content-v2.classx.co.in/paperimages/1766315258_1766315258248009_thump.png\" style=\"height:370px; width:800px\" /></p>",
+      "demoVideo": null,
+      "features": [],
+      "teacherName": null,
+      "teacherImage": null,
+      "isPurchased": false,
+      "includedCourses": [
+        {
+          "id": "22",
+          "slug": "web3-bootcamp",
+          "title": "Web3 Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/a6f6fa88a5f5b09290dd9fb78fa856e6c67957afd7c565c98225644f2506ee60.jpg",
+          "logo": null,
+          "price": 3999,
+          "mrp": 5999,
+          "currency": "INR",
+          "examName": null,
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 156,
+          "pdfCount": 0,
+          "testCount": 0
+        },
+        {
+          "id": "dsa-bootcamp",
+          "slug": "dsa-bootcamp",
+          "title": "DSA Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/9cab422f5e2f5f51cf724f867c6c1848507d57a64c7ad007ec77b477cae54fa8.png",
+          "logo": null,
+          "price": 0,
+          "mrp": 0,
+          "currency": "INR",
+          "examName": "DSA Bootcamp",
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 42,
+          "pdfCount": 0,
+          "testCount": 0
+        }
+      ],
+      "visibleCoupon": null
+    }
+  },
+  "searchHits": 82,
+  "rootItems": 13,
+  "uniqueItems": 94,
+  "items": [
+    {
+      "id": "preview_ETW8x564PAb50V8JBZyYATCzIM26vmeT",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 0 - Web3 | Meet your instructor | AMA | Doubt session - Harkirat Singh | 10/01/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 6497,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_T74LZ4l-HgKz9SnLPrNIEA67Yz7Pfvl6",
+      "courseId": "22",
+      "parentId": "5074",
+      "title": "React Interview Questions",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4352,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_nm0BBML3gkqIOSaOnuKwOX0i21q5otPN",
+      "courseId": "22",
+      "parentId": "5072",
+      "title": "Mumbai meetup (Enhanced audio)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3991,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_T8H9fovI1e_AcXin8lxucwM04HFw9xNt",
+      "courseId": "22",
+      "parentId": "5072",
+      "title": "Mumbai meetup",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4046,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_CKI6W4NowSzlha8zWShbmu-EhrlQLepF",
+      "courseId": "22",
+      "parentId": "4112",
+      "title": "Rishi\u2019s Frontend Session | Extra Class ( Optional ) | 20/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3973,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_nWk3XjgYOnM3fl2BbD5o7PgLMJSs7J0c",
+      "courseId": "22",
+      "parentId": "5079",
+      "title": "Ad-hoc GSOC contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 7085,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_yNrRNnq3P5L95K1nfKyC275QBz5B2Ipc",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 1 - Web3 | Introduction to Blockchains | 18/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 11331,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_8IW_C2VqwDhYuANSGS3-JZpP2nNZWs5B",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 5182,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_FqaGULVVO0Mdc47d8982RrVfazkIdOSp",
+      "courseId": "22",
+      "parentId": "6454",
+      "title": "Week 1 - Orientation | 19/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 4235,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_R2XrqxilBEDcmr660KkC9aXuRd67KP7C",
+      "courseId": "22",
+      "parentId": "6454",
+      "title": "Week 2 - Rust: Part 2 | 26/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 4622,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ImKEjQvPuZGtSdfCZDiSgnajajxs3A7Z",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 2 - Web3 | Wallets and Private Keys | 26/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 8880,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PKextdrbb9Rm4bgTScWd-qW3aJb1Gg4z",
+      "courseId": "22",
+      "parentId": "5079",
+      "title": "2. Processing (p5.js) setup and issue solving",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 3172,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Qe-fmQI-PinhPjceixyNgBjj1IWSqsMz",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": " Week 3 - Web3 | Diving Deeper into Solana Jargon | 03/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 7957,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_awma5Ram6u10XAuEHKyML8wGj7DpIu1q",
+      "courseId": "22",
+      "parentId": "6454",
+      "title": "Multithreading and Async in Rust | Super 30 Class [ Offline Video ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 5116,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_l19u7n2B4RvfFl7EwwMNmoOuWipJ1XuW",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 2104,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_3zH1m8FnS944tWNUngtXDyLmWZYdn9La",
+      "courseId": "22",
+      "parentId": "5079",
+      "title": "3. Processing (p5.js) setup and issue solving (By Ex GSoC student)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 4590,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rHMYhKapsoB42G31wswVM2aOC7nMtIfk",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 4 - Web3 | Token Program | 08/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 8494,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HPG-1ZiLbMsAxMRVdigCP_U5r4gi_VhN",
+      "courseId": "22",
+      "parentId": "5067",
+      "title": "Real time communication, Distributed computing",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 8599,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_26t5BF-NVmAqGl77wOBRr5Mab6GNJgZQ",
+      "courseId": "22",
+      "parentId": "4235",
+      "title": "Superdev Lecture 6 | 04-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 5910,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Q0aK3ULFPJEuIALHLINwb8tEeDG--3dY",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 3263,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_dLe2Nz_rbM2iY3Lp_Fwqv9WQpCVOlGhk",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 5 - Web3 | System program, token program, authority and owner | 15/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 6193,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_mIPnnSh6HD6c-BljX0M4e0Eqwct_ecU4",
+      "courseId": "22",
+      "parentId": "6454",
+      "title": "Week 3 - Centralized Exchanges | 02/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 2727,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_K-kwobFrueSctyodu19kT_L0e65N_mB1",
+      "courseId": "22",
+      "parentId": "3817",
+      "title": "Cohort 3 Orientation (Part 1)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 4443,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_MYjk_pD9ZHi-zmUnt2ZA8YwmctVToSfq",
+      "courseId": "22",
+      "parentId": "5079",
+      "title": "GSoC Backend Contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 5856,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hwu-QQ7AoOs-DpG3XQRgiOifkoBSK5RQ",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 6 - Web3 | Token program | 22/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 6119,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_QPwBNILk4XpPg8jnIUrG_uaqrl2Lcrze",
+      "courseId": "22",
+      "parentId": null,
+      "title": "Orientation Class and Warming Up | 04/01/2025",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 4262,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search",
+        "root"
+      ]
+    },
+    {
+      "id": "preview_Kc2GcJHFUU-unb0cL2GePEED5hCcvrhI",
+      "courseId": "22",
+      "parentId": "3817",
+      "title": "Cohort 3 Orientation (Part 2)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 5241,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_WXT8SwuImuy-XPrzdzvMNz-J1MMNjec3",
+      "courseId": "22",
+      "parentId": "6454",
+      "title": "Week 4 - Prediction Markets | 09/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 3122,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JP1OVLjbbYplpGM7mVLbLawowrTOlpx_",
+      "courseId": "22",
+      "parentId": "4235",
+      "title": "Superdev Lecture 7 | 06-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 5848,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__tpe9mjXdoe0cYyuShREsWzDn25YvWsK",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 4",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 2801,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_DLk3ThaqSv7yqog-8tRpZaLmHrCSIuYT",
+      "courseId": "22",
+      "parentId": "6454",
+      "title": "Week 6 - Validator Internals by Rishav Mehra | 07/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 4573,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_GpCKlpMv6JNj3bnIugCrAPEW2XCPfOu0",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 5",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 1726,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Hb8YVpeSm_kSsJKZt8sdV_Y6V8YNNkC3",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 7 - Web3 | Program Derived Addresses (PDAs) | 02/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 6857,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_aMK9k9KBQJzHw8R-cJjg0S1sYr_iMJrv",
+      "courseId": "22",
+      "parentId": "4235",
+      "title": "Superdev Lecture 8 | 12-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 5227,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Y8-THaAYaFsK9vmZcjGzQBZAipsYiBb3",
+      "courseId": "22",
+      "parentId": "4235",
+      "title": "Superdev Lecture 9 | 18-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 4702,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_KxlbptzSwE-uOCbYCoMrV6JfuGWThpsP",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 8 - Web3 | PDA (Continuation) | 08/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 6207,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_T1zxLrq_q45l2juwdK8tFByAvhSt0QVb",
+      "courseId": "22",
+      "parentId": "3817",
+      "title": "Public key cryptography (offline)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 7338,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sSc6JG_Y_aVKLXMf5W4O1PpYswIKTGwW",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 6",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 1406,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_j2rithR0N0rBQYYaCL-ve7_W4Xv1TbFf",
+      "courseId": "22",
+      "parentId": "4235",
+      "title": "Superdev Lecture 10 | 20-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 6322,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_IV_xbVkYjmn3yxYzmRDaT8z2_aGi9akB",
+      "courseId": "22",
+      "parentId": "5080",
+      "title": "TRpc Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 8341,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_fL199o7n7JmuUVU_aDvlFYdxnukiJWJr",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 7",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 4358,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_MgBfpkMvx7_3P5S8ApzVUlt6TiuuAJcH",
+      "courseId": "22",
+      "parentId": "3817",
+      "title": "Bitcoin Whitepaper",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 3407,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_EC9lzRiIM3uQxRV21parYdg9mE6DJQ41",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 8",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 4936,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_LOFTY-YQgKZDmzbHUJUK0oGkvuBEBmV9",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 10 - Web3 | Wallet Adapter (Part 1) | 22/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 3212,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tp7qxxyAwTx-EsRBq0WNsRBMK61OtWJe",
+      "courseId": "22",
+      "parentId": "4235",
+      "title": "Superdev Lecture 11 | 28-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 4606,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_O4GuTDzjJh5jRAE_znN56bOud3mx99Wl",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 9",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 3726,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_lihLRzstWsY2ZEZiXFI5LCKNm_4i2jHq",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 10 - Web3 | Wallet Adapter (Part 2) | 22/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 2005,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__HbzJdMvcngpWtk8Q1ZOm85aTDHVD0xj",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "DEX, AMMs and Liquidity pools [ Cohort 3 ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 9409,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_4HmGKDBqCOR3FUA9IcC8J9ZW4r_2kP4i",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 12 - Web3 | Rust for Solana | 06/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 5596,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_T0JIDS9Fpbdip2XxaE3KacE3acHrEeTn",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 10",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 4480,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Prd_QZWeK8Z099WRdOf1k6sEV6WAUrpp",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Multithreading and Async in Rust | Super 30 Class [ Offline Video ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 5116,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_U6grCQkVWgepv0wuG2sn6FP8Mg9RHut4",
+      "courseId": "22",
+      "parentId": "4986",
+      "title": "React Native Bootcamp | Day 11",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 3168,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_UM_g5K3Qx52iK0rDKfd3_Jsfec4XJZiz",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 13 (Offline): Rust for Solana - Part 2 | 18/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 3060,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_0ZrMec0fxNKiLMAukg0aHPyfBA66c6fn",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 14 - Web3 | Rust for Solana - Part 3 | 19/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 4730,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_8CovxhMAkxZ3ZVtmwQYnlw3AWaIT4em4",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 15 - Web3 | Rust for Solana - Part 4 | 26/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 6404,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9Eijl-FbFCOWuTslhQexr-F9ZhbobID8",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 16 - Web3 | Rust for Solana - Part 5 | 03/05/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 6152,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_oAfuBWEoCYBJwnv0sUiwkiRYbnVGAxbF",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 17 - Web3 | Your First Solana Program | 10/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 4627,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sx2JoJx9cvwhJqjRC27v-QFgaiKcAlli",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 18 - Web3 | Solana Contracts | 17/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 20,
+      "durationSecs": 5917,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_mMDv0jv4nmMvz53A8_bOqySxNmSj-sil",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "Eth Wallet Adapters",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 7060,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_XtkGj1PiCY7VPIjv5ghK20IVByQassYx",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "Impermanent loss, Creating a Liquidity pool",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 23,
+      "durationSecs": 7294,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9BUXNKzicPTDUnpVf5-bmdn7jjNb3mgv",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "Solidity part 2 (offline)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 27,
+      "durationSecs": 4269,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PWDGU5ufVEpgEY9VnNAp5QF-8mYcBY7B",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "Payable, CCIs in Eth",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 28,
+      "durationSecs": 6364,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_EC8Lkie1vmEPnUgfPhUPWixjTSu-hRDt",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "ERC-20 and OpenZeplin contracts",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 30,
+      "durationSecs": 7919,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_XuyxAr0Gf8s8Q3JvmkRWoVpPcmbJSndv",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "Hardhat, Ganache, Foundry ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 31,
+      "durationSecs": 8662,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_QdvPlKKTsFYlWEfl2vPgTOxVPtBi0Hvs",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "Bridges , building and EVM bridge",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 32,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_1F8reLsSGRIWH1IOfCnb0blgFIdT0goO",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "Building a Bridge",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 33,
+      "durationSecs": 7119,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_qiJATOnGT8GpLDFW6AIGCdu42qpuDxKR",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "Upgradability in ETH  [Offline]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 35,
+      "durationSecs": 9358,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_CYRsdqKRgrNjJevn1hJSqQ0fagYNmlpN",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "Building a proxy staking contract",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 36,
+      "durationSecs": 7346,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hjrEHwk1RTgsifgHJs8nFcWg4la39qEg",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "Upgradable staking contracts \u2014 Continued ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 37,
+      "durationSecs": 7937,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_bj7sqp7oJC6l-JBjaRlGijvhrXny8LE7",
+      "courseId": "22",
+      "parentId": "4269",
+      "title": "ETH end to end app",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 38,
+      "durationSecs": 8509,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_De63cvkEJGXQLyq0WzGDdl6Vk1usMRwO",
+      "courseId": "22",
+      "parentId": "5082",
+      "title": "Ui/Ux Primitives by Keshav - Part 1 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 40,
+      "durationSecs": 8941,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_l0bXLoqlPVxb5gyjrONFFoItUDMKXUwk",
+      "courseId": "22",
+      "parentId": "5082",
+      "title": "Ui/Ux Primitives by Keshav - Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 41,
+      "durationSecs": 8247,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7gSMBzVYaCmcQDGWEht8ya327Y1H2U8L",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 20 - Web3 | Programs with PDAs | 31/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 55,
+      "durationSecs": 5897,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sgfDsA8U6nwLsNmJ55wxaoXKvy92oY8Y",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 22 - Web Development + Web3 | Project Class | 14/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 56,
+      "durationSecs": 7857,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_23edxIxBhs-BnXFCa2Y8fn7VuQnTQlNV",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 23 - Web3 | Anchor - Part 1 | 21/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 57,
+      "durationSecs": 5523,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_kC4OIDVjTn8SXNaa_HjsLeQmKySplAzs",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 29 - Web3 | Deposit and withdrawal infrastructure | 02/08/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 59,
+      "durationSecs": 4324,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_kAsa4kl-ttuh9TX0sFmO7vkyLoZZ8luC",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 32 - Web3 | CEX Project: Part 2 | 23/08/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 61,
+      "durationSecs": 4946,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_v5QD7rZMaPZsTVYL0rYNN2w5zxGbFf1p",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 33 - Web3 | CEX Project: Part 3 | 30/08/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 63,
+      "durationSecs": 6670,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9EqsZ_D4H4-l4RPkmMqcjRco1qjQK0OV",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 34 - Web3 | Q&A | Bootcamp 1.0",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 64,
+      "durationSecs": 1986,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_FHEfzyRY9KdFRCPajIXInTkT_Sxg0oCu",
+      "courseId": "22",
+      "parentId": "4151",
+      "title": "Week 34.2 - Web3 | CEX Project: Part 4 - ENGINE ARCHITECTURE  (Offline) | 10/09/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 65,
+      "durationSecs": 7562,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_6QNrSyahN_tPYYxH_u9vKwVA-84cK7Tg",
+      "courseId": "22",
+      "parentId": "5081",
+      "title": " Freelancing Masterclass",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 75,
+      "durationSecs": 8517,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_t4M-GM0mvz5X5q6PCLfCPl81UcgkDWGS",
+      "courseId": "22",
+      "parentId": "5081",
+      "title": "Freelancing Masterclass part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 76,
+      "durationSecs": 8504,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_vRNK8U4nGtTK-dGVB4Xc7O_qmeb6MKgb",
+      "courseId": "22",
+      "parentId": null,
+      "title": "Discord Invite",
+      "description": null,
+      "materialType": "LINK",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "preview_qC1ucTaNsEUm9zwc4AZ9l6bTlCk-rXdS",
+      "courseId": "22",
+      "parentId": null,
+      "title": "How to join Discord server",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 74,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "3895",
+      "courseId": "22",
+      "parentId": null,
+      "title": "Syllabus",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "3817",
+      "courseId": "22",
+      "parentId": null,
+      "title": "Warmup Videos - Cohort 3",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "preview_FlJbefPqhkRn81E5auGe5EXveTfLObyr",
+      "courseId": "22",
+      "parentId": null,
+      "title": "Slides and Assignments",
+      "description": null,
+      "materialType": "LINK",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4151",
+      "courseId": "22",
+      "parentId": null,
+      "title": "Web3 Bootcamp Videos",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "6454",
+      "courseId": "22",
+      "parentId": null,
+      "title": " Solana India Fellowship Bootcamp 2026 (Optional / Extra)",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4986",
+      "courseId": "22",
+      "parentId": null,
+      "title": "React Native ( Optional / Bonus Sessions )",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4112",
+      "courseId": "22",
+      "parentId": null,
+      "title": "Extra Guest Lectures (Optional)",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4235",
+      "courseId": "22",
+      "parentId": null,
+      "title": "Superdev Fellowship 2025 (Optional / Extra)",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4269",
+      "courseId": "22",
+      "parentId": null,
+      "title": "Ethereum \u2013 Cohort 3 (Optional / Extra)",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4956",
+      "courseId": "22",
+      "parentId": null,
+      "title": "Extra Content ( Optional )",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    }
+  ]
+}

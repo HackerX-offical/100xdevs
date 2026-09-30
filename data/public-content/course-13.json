@@ -1,0 +1,2337 @@
+{
+  "listing": {
+    "id": "13",
+    "slug": "complete-web3-blockchain-cohort",
+    "title": "Complete Web3/Blockchain Cohort | (Completed)",
+    "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/907d2c1ccad192dbc46fdf93de0eb02604f2b9dcaa79a9db8ae1dde5d4c2e85d.jpeg",
+    "logo": null,
+    "price": 3499,
+    "mrp": 5999,
+    "currency": "INR",
+    "examName": "Old Programs",
+    "examCategory": null,
+    "isCombo": false,
+    "validity": "36 months",
+    "validityMonths": 36,
+    "enabled": true,
+    "categoryId": null,
+    "videoCount": 0,
+    "pdfCount": 0,
+    "testCount": 0
+  },
+  "meta": {
+    "data": {
+      "id": "13",
+      "slug": "complete-web3-blockchain-cohort",
+      "title": "Complete Web3/Blockchain Cohort | (Completed)",
+      "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/907d2c1ccad192dbc46fdf93de0eb02604f2b9dcaa79a9db8ae1dde5d4c2e85d.jpeg",
+      "logo": null,
+      "price": 3499,
+      "mrp": 5999,
+      "currency": "INR",
+      "examName": "Old Programs",
+      "examCategory": null,
+      "isCombo": false,
+      "validity": "36 months",
+      "validityMonths": 36,
+      "enabled": true,
+      "categoryId": null,
+      "videoCount": 215,
+      "pdfCount": 0,
+      "testCount": 0,
+      "description": "<p>Complete syllabus - <a href=\"https://petal-estimate-4e9.notion.site/Cohort-3-0-322ac9e00cb248f090fffe05047de99f?pvs=74\">Here</a></p>\n<p><strong>Starts 2nd August 2024</strong></p>\n<p><strong>Web3 Basics</strong></p>\n<p>General Web3<!--{C}%3C!%2D%2D%20notionvc%3A%20053a34f4-ba4b-40ed-9921-1f06bee68c77%20%2D%2D%3E--></p>\n<p>ETH client side apps, adapters</p>\n<p>Understanding EVM</p>\n<p>Solana client side apps, adapters</p>\n<p>Understanding the Data model on Solana</p>\n<p><strong>Web3 Advance</strong></p>\n<p>Solidity Basics (Remix)</p>\n<p>Solidity Advance</p>\n<p>Writing Smart contracts in Solidity, Writing frontends for them</p>\n<p>Rust Basics</p>\n<p>Rust Advance</p>\n<p>Data Model on Solana</p>\n<p>Programs on Solana</p>\n<p>Web2 + Web3 usecases (indexing, sweeping)</p>\n<p><strong>Projects and Contracts</strong></p>",
+      "demoVideo": null,
+      "features": [],
+      "teacherName": null,
+      "teacherImage": null,
+      "isPurchased": false,
+      "includedCourses": [
+        {
+          "id": "13",
+          "slug": "complete-web3-blockchain-cohort",
+          "title": "Complete Web3/Blockchain Cohort | (Completed)",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/907d2c1ccad192dbc46fdf93de0eb02604f2b9dcaa79a9db8ae1dde5d4c2e85d.jpeg",
+          "logo": null,
+          "price": 3499,
+          "mrp": 5999,
+          "currency": "INR",
+          "examName": "Old Programs",
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 215,
+          "pdfCount": 0,
+          "testCount": 0
+        },
+        {
+          "id": "dsa-bootcamp",
+          "slug": "dsa-bootcamp",
+          "title": "DSA Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/9cab422f5e2f5f51cf724f867c6c1848507d57a64c7ad007ec77b477cae54fa8.png",
+          "logo": null,
+          "price": 0,
+          "mrp": 0,
+          "currency": "INR",
+          "examName": "DSA Bootcamp",
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 42,
+          "pdfCount": 0,
+          "testCount": 0
+        }
+      ],
+      "visibleCoupon": null
+    }
+  },
+  "searchHits": 127,
+  "rootItems": 4,
+  "uniqueItems": 131,
+  "items": [
+    {
+      "id": "preview_HBaRGNNASyQHsJ-sq9aGumQhS9rVts-S",
+      "courseId": "13",
+      "parentId": "6186",
+      "title": "Ad-hoc GSOC contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 7085,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_35JwuJIF_hnHftfV-_FH49wjAzudDFVr",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "1.1 - Orientation (Part 1)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4443,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Equ8I3sHODDBQLRPY0RYcNGRvJgJ9x1Z",
+      "courseId": "13",
+      "parentId": "6179",
+      "title": "Mumbai meetup",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4046,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ykibTO-5aTVTy7wHBTxZDh-kyVpR7G25",
+      "courseId": "13",
+      "parentId": "6179",
+      "title": "Mumbai meetup (Enhanced audio)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3991,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_GcLSTGZqIjl09E0rByWCN3LC3QJiVjJI",
+      "courseId": "13",
+      "parentId": "6181",
+      "title": "React Interview Questions",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4352,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_bbnxRzIO7QWMCJOGPPLiYotzwJWWyFaw",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA | Trial Class | Introduction | 02/04/24",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 7332,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rTzJ7jiBGqbJj3Onx73yTxwZMTVhUzKc",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 2 | Array | 05/04 (Zoom Recording)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8188,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2gzOWX2GyTbib0bI16rmscjjjHCoNA1V",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "1.1 - Orientation (Part2)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 5241,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JJVuLmmfVm2UeH9afq1sTEKDt2inGtuI",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 3 | Complexity Analysis | 10/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 7787,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_XE0FM1DaS_YmmfLMaHU4vdwATJq6cXcG",
+      "courseId": "13",
+      "parentId": "6186",
+      "title": "2. Processing (p5.js) setup and issue solving",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 3172,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_oUhC3buK2fYsNFhmekxL71enIOSeIqsK",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "1.2 | Bitcoin Whitepaper",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 3407,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Sji1WIvOWfyvfq2ydrXDGVMyauTnOwjj",
+      "courseId": "13",
+      "parentId": "6186",
+      "title": "3. Processing (p5.js) setup and issue solving (By Ex GSoC student)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 4590,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9ljH22QFKrwmzh0mwozaYT5N9JlI-cMe",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 4 | Arrays - Continued",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 7757,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_a32ObzCg1-u1xjVpYprjjgWO1zqohhi5",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "2.1 Public Key Cryptography",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 10450,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_wyREv9r6I8rmsm-Gv2OkpknEZzXbVs4e",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 5 | C++ (part 1/2)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 7399,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_wR8hoGgiBiowv-p_lirvO2p0oVfizaiO",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "2.2 | Public key cryptography (again, from scratch)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 7338,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HZIhRBmL1iLX0ppDz2mC4iPFBKylq_dB",
+      "courseId": "13",
+      "parentId": "6174",
+      "title": "Real time communication, Distributed computing",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 8599,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_UQCt-6XPeWSFIAgL0H3SCqmZ9v3WJn_x",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 6 | C++ (part 2/2) | 18/04",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 7334,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_FZdXoey_SooM9Gq9GMcI0XIHQwjlx71s",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "DEX, AMMs and Liquidity pools [ Cohort 3 ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 9409,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_4WLL65OVLjZ8fniqOcRVAW2X2Puaq7w-",
+      "courseId": "13",
+      "parentId": "6186",
+      "title": "GSoC Backend Contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 5856,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_fGi-cPT_LQJwp8F0B_EKSR4QmzjCvwld",
+      "courseId": "13",
+      "parentId": "6105",
+      "title": "Superdev Lecture 7 | 06-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 5848,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_1cIxUgS1IwdTUpaGIsv1EepQqDgy098e",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 7 | Recursion - 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 7288,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hzwknd_g6svIZEoabYeHCnAnQhIRKUmw",
+      "courseId": "13",
+      "parentId": "6102",
+      "title": "Super 30 Class | Golang Introduction",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 8153,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_LZtMIzXEb6XFq1Ivh3RxWFaov0A2lmIM",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 3.1 | How to create a Web based wallet",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 9161,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_oCbXUpHxT5-K_mknrIkPvAAyohJsj7lI",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 4.1 | Token Program and Solana Data model, QnA",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 7178,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ESadGAOsQtEIrRiaKjv4D5CUfzk9XxQg",
+      "courseId": "13",
+      "parentId": "6105",
+      "title": "Superdev Lecture 8 | 12-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 5227,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Muy-CLKyPf8jfRUxHoD-QYOKwqnSP73B",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 8 | Recursion - 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 7456,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Hsk3S-aEMP1-b8WlOg4HYSL5xUq3z4Fh",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 9 | Binary Search ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 8749,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_0ChyWvHRQqnDQQaI7d1btrpWulJVJaHN",
+      "courseId": "13",
+      "parentId": "6105",
+      "title": "Superdev Lecture 9 | 18-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 4702,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Wh9QWvFErgH_wygkK0vCshB7HiJu5OLN",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 4.2 | Programs, Smart contracts and Token program (Offline)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 8673,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_k3BAW62_GbttIxY1tQ0B3Q5REIK1UooW",
+      "courseId": "13",
+      "parentId": "6187",
+      "title": "TRpc Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 8341,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_cOc5ytfljenKkrhw8S7wAwSuLVsl7y77",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 5.1 | Solana client side apps",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 9121,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_8BoAWPZ_t-Xkrumoa2V6uTfcBxCZSsbP",
+      "courseId": "13",
+      "parentId": "6105",
+      "title": "Superdev Lecture 10 | 20-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 6322,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7rifYjzT2r2Xp5NVScvhu-fI-KHlT6MK",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 10 | Binary Search - 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 7911,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_MbcFP1toNd6-G-ErKr3tShDyz6O0WVHT",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 11 | Linked List",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 8129,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_8W_ieI7oUuCgI0M5gL5YpELQezXrK45q",
+      "courseId": "13",
+      "parentId": "6105",
+      "title": "Superdev Lecture 11 | 28-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 4606,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_42oPjQMXQjhOqoX7JJdaSBO0TO5Q05wL",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "6.1 | Token Launchpad in React",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 7635,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_1FMP3F31OipAsxeo1BCEc5WSGQnqom66",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 0 | by Riddhi | 11/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 7145,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ljEBsHEBHzc1nAJZWy2GDId0QKzmqGWo",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 7.1 - Accounts, Authorities and Owners in Solana",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 4501,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_NlIckC5bU1BcpUuftkLzdKIHLZUUVMwE",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 8.0.1 (offline) | Dapps, Wallet adapter and simple apps",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 5622,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hJxjShJ1gL6GdmfFpQiMAviezSfeX68p",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA (1) | Problem solving on Recursion (1/2) | 13/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 789,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ZlH2pixZpUZqaasNT_ptZUoVMKJvpKhu",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA (1) | Problem solving on Recursion (2/2) | 13/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 6564,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_v6L6pD0L-LkU4g2qJM3z_KQprkuDX1Z9",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 8.0.2 (offline) | Token Launchpad in React",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 4232,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_htOwlxgfPeB1dJCj6_wbf92ZYGQGstIj",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 8.1 | Program Derived Addresses",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 8509,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_bhc6i3m-2NYwzR4GZ1NxZNh-pU6S7o2U",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 2 | Basics of java | 16/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 7116,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_S7M15C2yfdZGxwo0fUHrnJ7kn1KgWj-M",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 3 | Problem Solving on Arrays | 20/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 7450,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ZISONI7L2vQ0LiafUkHCIyoWL-BIdZzV",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 4 | Basics of DSA | 22/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 6516,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_dY-24Kln8X6j5WugrF_Vs09xE3AaSDuR",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "11.1 | Eth Wallet Adapters",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 7060,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_YfXGu8ivIL75gzWwV7h4qVpOlGtLMZzr",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 5 | Strings and ArrayList | 27/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 7791,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_iCgP7NSxf5W-GqNibqQrfgcOf-a7PKK4",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 12.1 | Impermanent loss, Creating a Liquidity pool",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 7294,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tuaKDbycDPhazdsnAYMGeYwRb0aKaiZB",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 6 | Strings and ArrayList (Part-2) | 29/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 7627,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_O3KQX_PePgrY3bpEz_7PPQblemT2-inQ",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 13.1 | LSTs, Coding an LST platform",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 7341,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_dWm3nqjUoQjE1d-tXhRRPmi1iC2dIvGM",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 7 | Hashing and HashMaps | 03/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 7143,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_M97dZ9dS4E9SEkdi56iXoB4rvZ6PVXub",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 14.1 | Private key management, Building a project",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 9072,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sMFzcaIHIFlqmAHUyp42RFtkQj2HnOkE",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 8 | Hashing and HashMaps (Part - 2) | 05/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 20,
+      "durationSecs": 7121,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_5OYuiZ0oyrBhe8qE5dHBhskHvOMc-ra2",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 9 | Hashing and HashMaps (Problem solving) | 10/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 21,
+      "durationSecs": 8002,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PVTOasNfI-BAjdhHUtwyVYpj5CrWsZg5",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 15.2 | Solidity part 2 (offline)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 21,
+      "durationSecs": 4269,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_pg2RgpWYVAXjsVksK69VOVw0nEqctKr0",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 10 | Two Pointers | 12/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 7062,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_f-GWDvUZ_jl595n2-k_x7LiSQpt_EWyB",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 16.1 | payable, CCIs in ETH",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 6364,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_q08nP9lBF6ATQDJPYCT7ftKYuH0ftbfK",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 17.1 | ERC-20 and OpenZeplin contracts",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 23,
+      "durationSecs": 7919,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_N32NehoDmGEHXzT02Ybx14cS_age3yUh",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 11 | Two Pointers (Part - 2) | 17/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 23,
+      "durationSecs": 7123,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_qf8fwBZIkRbW8bpZ-m1WHDuex6E6k4Wm",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 18.1 | Hardhat, Ganache, Foundry ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 24,
+      "durationSecs": 8662,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_B0kWiPKgR8ymWBQCd6WpT-DO6hLMrbYn",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA (12) | Bit Manipulation",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 24,
+      "durationSecs": 6346,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7T7nKHHC_z71OPkvYWvcIov3YW6qRpE6",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 13 | Problems on Bit Manipulation |",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 25,
+      "durationSecs": 7016,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Z_1Fy6ITKpDp7_NAeo98S8WrAbaP_HJN",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 14 | Recursion and Backtracking ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 26,
+      "durationSecs": 7335,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_WaGoZ5NS0PNjPn7VR3SG2FneRR8nOpYE",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "Week 19 - Bridges, building and EVM bridge",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 26,
+      "durationSecs": 6526,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_EplFLPJOZTibhHtZ0GWjUhvcPQ9oqH9d",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "WEB 3 | week 20 | Building a Bridge",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 27,
+      "durationSecs": 7119,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_fPAlQN5dJSRYDGEni4jfjEm-pQ3ztQBS",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 15 | Back Tracking - 2 | 08/07",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 27,
+      "durationSecs": 6823,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__0RqJhRBLesMsF4uWOBvtV16zSJOzL4R",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": " DSA 16 | Sorting-1 Problems (Merge) ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 28,
+      "durationSecs": 7377,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_uxq7enBgzg9LQ5vtBc4yBavJhY3LaXwM",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 17 | Linked List Problems",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 29,
+      "durationSecs": 6531,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_snRrCKjvO0tTXQ91y_viur6-f2LAW1KP",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] Week 22 |  Upgradability in ETH  [Offline]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 29,
+      "durationSecs": 9358,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_F-fbitB7UCATdIJ2mcYh6UTCms9aAal2",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] Week 22.1 |  Building a proxy staking contract",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 30,
+      "durationSecs": 7346,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_62BRUzu0miNJtwk8S4Dvnb_Q3QzM2yiR",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": " DSA 18 | Sorting-III Cyclic Sort & Problems",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 30,
+      "durationSecs": 7727,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tf68NZs605NpE-0CCpQcCuvyXPPIpCEd",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": " DSA 19 | Stacks and Queues",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 31,
+      "durationSecs": 6369,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_yh4SkBgQSKLARSwL7CliG9fDJvjLh52w",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": " [Web3] 23.1 | Upgradable staking contracts \u2014 Continued ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 31,
+      "durationSecs": 7937,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_0M6ZiUduj6O23lJ3A9IqeMon8lKb-MUV",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 20 | Stacks",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 32,
+      "durationSecs": 6830,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_YDDa1TcZIV5iboZ5woXrsfLT3ZJ3PGNB",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 24.1 | ETH end to end app",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 32,
+      "durationSecs": 8509,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_beHkr83ABmWbWh0a1o2SatUoGbZU9_ys",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "Week 25 | Birthday stream and sharing alpha (Starting Solana)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 33,
+      "durationSecs": 2156,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_q9ToDmClXwsfdWIayMlf7WlRwoOUQQPU",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 21 | Stacks -2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 33,
+      "durationSecs": 6682,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rQY2jrHzF9K8S0ma8Vm9Fh-lcGomoBbf",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 22 | Heaps & Priority Queues - 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 34,
+      "durationSecs": 5959,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Pl-I_raYT83KRv_cZQmitRLcrmAXd014",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": " [Web3] 26.1 | Rust Bootcamp Part 1 - Data types, conditionals, loops, fns, structs, enums, ownership and borrowing",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 34,
+      "durationSecs": 7437,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_WSlpNY4mhjckplivi19efv1WXBdQ_cOb",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": " DSA 23 | Heaps & Priority Queues-2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 35,
+      "durationSecs": 6734,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_V2Wjl18D4D2kB4o8G9wytt2lDAj6PZLY",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 27.1 | Rust Bootcamp Part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 35,
+      "durationSecs": 7367,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_N77Vri05gbdvwloyJzDvhNOaSatiJs8h",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 24 | Priority Queues - 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 36,
+      "durationSecs": 5527,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JBUvptRMlMWiz2p-pleF0_tCNh7ULQAt",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 28.1 | Rust Part - 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 36,
+      "durationSecs": 8500,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_-_KWC5E3YzY_WX1oOd2k3tFQllJbQM0q",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 25 | Trees - 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 37,
+      "durationSecs": 6285,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_GFTfscPoKZ-QEc58Kh6cG4WDQEi2qn5t",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 29.1 | Deriving macros, serde, borsh and lifetimes",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 37,
+      "durationSecs": 7311,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_gYNGrgjEkgldT21GNiMWMpsV7tg1Mq4B",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 26 | Trees 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 38,
+      "durationSecs": 5945,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PV54DzFlSgPcQ3qZBH12Wg3QpE2nFNWT",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "Week 30 - Serde, Borsh, Lifetimes, Your first Solana Program",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 38,
+      "durationSecs": 8351,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_3fldJxCo-dyAdrffmjERxXc7KdxDwMAA",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 27 | Binary Search Tree - 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 39,
+      "durationSecs": 6018,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_SP0fLzI6760HeiY4WkseTNnikK-wUTGl",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 31.1 | Solana native contracts in rust ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 39,
+      "durationSecs": 7865,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_VSi6kBd1gp6fC2DCIn__46BOl-d3WofV",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 28 | Binary Search Trees - 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 40,
+      "durationSecs": 5850,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_YEsjCZq7zItZIW_itEAXNFkKkWtH1VhK",
+      "courseId": "13",
+      "parentId": "6189",
+      "title": "Ui/Ux Primitives by Keshav - Part 1 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 40,
+      "durationSecs": 8941,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_DpuePr7iqXkan2ADzTHNwtRVQ5XHlB49",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 32.1 | Writing JS clients for smart contracts ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 40,
+      "durationSecs": 7219,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Bh0yRjZnKgTqQzpONMB1EDtl9kreJ1hP",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 33.1 | Building a coin flip game on solana with Biswa",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 41,
+      "durationSecs": 7092,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_s3_HfHI0R_fMs1KcgTFvck-N4c42lxIG",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 29  | Tress Problem Solving",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 41,
+      "durationSecs": 6194,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Fah0hFGUQ5wehuc6QSj_Q1G_YFBf3HZx",
+      "courseId": "13",
+      "parentId": "6189",
+      "title": "Ui/Ux Primitives by Keshav - Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 41,
+      "durationSecs": 8247,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_uIALLJ6omCX59kZbjJIlpI4zB1kILamU",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] 34.1 | PDAs in Solana ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 42,
+      "durationSecs": 6962,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_cspXLMACTw6Tuy-gf-yluK5YW4jv_Q6o",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 30 | Tries",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 42,
+      "durationSecs": 6582,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hUK8aOh-34E75DGBGek8QPKpQBqNNRRD",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "Week 35.1 | CPIs and liteSVM",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 43,
+      "durationSecs": 2017,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_zsfZhXaUPhyUDmC_3i1Rnyv8dx0Pxosu",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 31 | Introduction to Dynamic Programming",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 43,
+      "durationSecs": 6698,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_MBMFtqIFSLAYJXufTaURMTcdgBizTEI9",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 32 | Dynamic Programming Problems",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 44,
+      "durationSecs": 6045,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_vjj0RsSwl5Y-R8sg6ZiGke40BW5mnh8m",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": " [WEB3] Week 37 | pdas, bumps and invoke_signed | 02/04 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 45,
+      "durationSecs": 8683,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_a38WAmB9QsWWyJk-SbucPUEp4pkiajK4",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 33 | Dynamic Programming - 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 45,
+      "durationSecs": 5919,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_NVRkwLlUQQrvwUQq50ew7WwmDid35URd",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 34 | DP on Grids",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 46,
+      "durationSecs": 5142,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HzDtqu_dQDZqPU2LjQxwBbIqcXmoqocc",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] Week 38 | Anchor vs Raw Contracts | 16/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 46,
+      "durationSecs": 8277,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Oa6jPKEkInYJP9kbTcMhI-rztvrhT_t2",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[Web3] Week 39 | Anchor 2 - CPIS and PDAs in anchor | 23/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 47,
+      "durationSecs": 5722,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sBxh-FSyrjA8Mrq8rWwcBSW3maqPvoA9",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 35 | 2D Dynamic Programming",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 47,
+      "durationSecs": 5247,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_bLbReSOq2GCHoQKRjejXNp5NiYGVVNva",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 36 | Knapsack & DP",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 48,
+      "durationSecs": 5437,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_AtqoNng0_cu7EYHvhHqzzMkX0urfElQI",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": " [Web3] Week 40 | PDAs in anchor, staking program | 30/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 48,
+      "durationSecs": 5085,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_IY1TZk6a458O2Yx_OupNqkupWKIwcbuw",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[WEB3] Week 41.1 | Private key management | 06/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 49,
+      "durationSecs": 8321,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_IL0yjhBB644i15Epz8wTgq-VnPyxwYjs",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 37 | paritition DP ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 49,
+      "durationSecs": 5075,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_jNDPhudXHV0qmBy-JtxaBxJpvvA-z099",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 38 | Dynamic Programming | Miscellaneous",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 50,
+      "durationSecs": 5312,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_YJNB3Ktxi_E5nWkRr_2Piw-FAHDLq5Z6",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[WEB3] Week 43.1 | Creating a cloud wallet | 08/08",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 50,
+      "durationSecs": 14465,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__dOIy250SVkyXtpi5SElzBOAQFz21_pI",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 39 | Binary Search Problems",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 51,
+      "durationSecs": 5912,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_MlI2az21dlulhUuVpqSG4g9wki9jDXZU",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 40 | Binary Search 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 52,
+      "durationSecs": 6382,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_knv-Weh1HP9bhhKYyaFU6dXn8uHxcHRP",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[WEB3] Week 44.1 | Telegram Bonk Bot",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 52,
+      "durationSecs": 3943,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rpBr6UV38RtkHI3mFxK4VdgQN95eqR-u",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "[WEB3] | Week 45.1 - Wrapping up web3 cohort,  colosseum idea discussions",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 53,
+      "durationSecs": 4638,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_C67LlQYvLqsFHp3X74FTRQGT0aLz4Kn-",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 41 | Binary Search 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 53,
+      "durationSecs": 5681,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7xFLpYYwF-3RZpkbwD2hdKigG6X-XMSR",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "Building Crypto Centralized Exchange ( Part 1 )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 54,
+      "durationSecs": 8587,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_B-oVYbBIKJmDKjaPSJka5mJrcjKznD9G",
+      "courseId": "13",
+      "parentId": "6118",
+      "title": "DSA 40 | Binary Search 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 54,
+      "durationSecs": 6382,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_t3knnFIjpp270ZTycQCe4fb_94MVVLWT",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "Building Crypto Centralized Exchange ( Part 2 )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 55,
+      "durationSecs": 5910,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_NmE3TWAcWw8O0qBw9q3-c8hy1EfMu0e6",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "Building Crypto payment gateway ( Part 1 )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 56,
+      "durationSecs": 6322,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_G-hKiyEPT4YuiKn4stmbrLlMjwqTe8Lv",
+      "courseId": "13",
+      "parentId": "6045",
+      "title": "Building Crypto payment gateway ( Part 2 )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 57,
+      "durationSecs": 3179,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_3-D6DUNpen4zWOcVHG_dYGZsLKtU0ion",
+      "courseId": "13",
+      "parentId": "6188",
+      "title": " Freelancing Masterclass",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 75,
+      "durationSecs": 8517,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_BRiuN3QZgnwt1aWwarBkkGX5awniy-t6",
+      "courseId": "13",
+      "parentId": "6188",
+      "title": "Freelancing Masterclass part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 76,
+      "durationSecs": 8504,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_BzJRfWYC3y_RLvTRgwx82emN_N-eBDw_",
+      "courseId": "13",
+      "parentId": "6102",
+      "title": "19.4 | Redis, Pub subs and Queues",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 89,
+      "durationSecs": 8241,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_RjTbYHM9syiESnMY70V8-weYsJb7M4yP",
+      "courseId": "13",
+      "parentId": null,
+      "title": "How to Join Discord",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 292,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "preview_EPWePhKb1HgM4c2vWCAaw8g3-h1_Tqej",
+      "courseId": "13",
+      "parentId": null,
+      "title": "Slides",
+      "description": null,
+      "materialType": "LINK",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "6045",
+      "courseId": "13",
+      "parentId": null,
+      "title": "Web3 / Blockchain Cohort",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "6101",
+      "courseId": "13",
+      "parentId": null,
+      "title": "Extra Content ( Optional )",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    }
+  ]
+}

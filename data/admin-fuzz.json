@@ -1,0 +1,259 @@
+{
+  "hits": [
+    {
+      "path": "/admin/users",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/user",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/courses",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/orders",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/payments",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/cohorts",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/content",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/videos",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/dashboard",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/login",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/auth/login",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/enrollments",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/invoices",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/coupons",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/settings",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/moderators",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/comments",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/users",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/user",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/courses",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/orders",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/payments",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/cohorts",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/content",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/videos",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/dashboard",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/login",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/auth/login",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/enrollments",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/invoices",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/coupons",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/settings",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/moderators",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/api/comments",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/users",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/user",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/courses",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/orders",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/payments",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/cohorts",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/content",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/videos",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/dashboard",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/login",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/auth/login",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/enrollments",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/invoices",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/coupons",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/settings",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/moderators",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    },
+    {
+      "path": "/admin/v1/comments",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Admin verification required\"}"
+    }
+  ]
+}

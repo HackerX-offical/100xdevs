@@ -1,0 +1,2158 @@
+{
+  "listing": {
+    "id": "21",
+    "slug": "web-dev-devops-bootcamp",
+    "title": "Web Dev + Devops Bootcamp",
+    "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/0300f4500999a2abdc9225a12f3ef1b128065aff43b7b5d1acf65904fe3a60d8.jpg",
+    "logo": null,
+    "price": 3999,
+    "mrp": 5999,
+    "currency": "INR",
+    "examName": null,
+    "examCategory": null,
+    "isCombo": false,
+    "validity": "36 months",
+    "validityMonths": 36,
+    "enabled": true,
+    "categoryId": null,
+    "videoCount": 0,
+    "pdfCount": 0,
+    "testCount": 0
+  },
+  "meta": {
+    "data": {
+      "id": "21",
+      "slug": "web-dev-devops-bootcamp",
+      "title": "Web Dev + Devops Bootcamp",
+      "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/0300f4500999a2abdc9225a12f3ef1b128065aff43b7b5d1acf65904fe3a60d8.jpg",
+      "logo": null,
+      "price": 3999,
+      "mrp": 5999,
+      "currency": "INR",
+      "examName": null,
+      "examCategory": null,
+      "isCombo": false,
+      "validity": "36 months",
+      "validityMonths": 36,
+      "enabled": true,
+      "categoryId": null,
+      "videoCount": 187,
+      "pdfCount": 0,
+      "testCount": 0,
+      "description": "<p><span style=\"font-size:24px\"><strong>Web dev</strong></span></p>\n<p><span style=\"font-size:24px\"><strong><img src=\"https://appx-content-v2.classx.co.in/paperimages/1766314944_1766314943997392_thump.png\" style=\"height:353px; width:800px\" /></strong></span><br />\r\n&nbsp;</p>\n<p><strong><span style=\"font-size:22px\">Devops</span></strong></p>\n<p><img src=\"https://appx-content-v2.classx.co.in/paperimages/1766314908_1766314908362101_thump.png\" style=\"height:330px; width:700px\" /></p>",
+      "demoVideo": null,
+      "features": [],
+      "teacherName": null,
+      "teacherImage": null,
+      "isPurchased": false,
+      "includedCourses": [
+        {
+          "id": "21",
+          "slug": "web-dev-devops-bootcamp",
+          "title": "Web Dev + Devops Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/0300f4500999a2abdc9225a12f3ef1b128065aff43b7b5d1acf65904fe3a60d8.jpg",
+          "logo": null,
+          "price": 3999,
+          "mrp": 5999,
+          "currency": "INR",
+          "examName": null,
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 187,
+          "pdfCount": 0,
+          "testCount": 0
+        },
+        {
+          "id": "dsa-bootcamp",
+          "slug": "dsa-bootcamp",
+          "title": "DSA Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/9cab422f5e2f5f51cf724f867c6c1848507d57a64c7ad007ec77b477cae54fa8.png",
+          "logo": null,
+          "price": 0,
+          "mrp": 0,
+          "currency": "INR",
+          "examName": "DSA Bootcamp",
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 42,
+          "pdfCount": 0,
+          "testCount": 0
+        }
+      ],
+      "visibleCoupon": null
+    }
+  },
+  "searchHits": 110,
+  "rootItems": 10,
+  "uniqueItems": 119,
+  "items": [
+    {
+      "id": "preview_mc4VzItmqzSfmhsVuvYx5iMbZjO_bFEv",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 0 - Web Development | Meet your instructor | AMA | Doubt session - Harkirat Singh | 10/01/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 6497,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Fr9Z4U2L7eztSC5pqNYaN9wI2fYZUXw3",
+      "courseId": "21",
+      "parentId": "3783",
+      "title": "HTML Basics (Tags and Attributes) - Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 2027,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_meZ3SsIkYah3DbR8vdhVTQP9wLa8AVNg",
+      "courseId": "21",
+      "parentId": "4113",
+      "title": "Rishi\u2019s Frontend Session | Extra Class ( Optional ) | 20/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3973,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_n7kuiMXxo5tHF-P0sEu6NGWD-q4vxk55",
+      "courseId": "21",
+      "parentId": "5107",
+      "title": "React Interview Questions",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4352,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ruvAVyl8Cf6-Cv6w_1hQksIzV-V71leW",
+      "courseId": "21",
+      "parentId": "5112",
+      "title": "Ad-hoc GSOC contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 7085,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_I6DD7phrYH2U192l1Oyi6nnK94kxoaGP",
+      "courseId": "21",
+      "parentId": "5105",
+      "title": "Mumbai meetup (Enhanced audio)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3991,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_4ygUHwbISvoIvfRnu7c5HaEN7ynQMPmz",
+      "courseId": "21",
+      "parentId": "5105",
+      "title": "Mumbai meetup",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4046,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__e5hIiPBgb4GPWDPll4teqL9RpP52UZI",
+      "courseId": "21",
+      "parentId": "3783",
+      "title": "CSS Basics - Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3581,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_6GBkEsOGVUzCHUcetYD1axp7L2s3owLf",
+      "courseId": "21",
+      "parentId": "f_ee3238e4-6434-48b1-a003-057c79c4a7f7",
+      "title": "Postgres Installation | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 70,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PvVCxM9X2NCHJMz23Jt2jLT6DNzBwIRL",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 1 - Web Development | HTML and CSS | 16/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8414,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_az3FTP3KhGOz4zNYCHQ5XoZyJJ3ulTKQ",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 5182,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_xWAXWEjiCs32lCvP2MVGxJUSmvf93M0Q",
+      "courseId": "21",
+      "parentId": "3787",
+      "title": "Week 1.2 | JS Foundations",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8531,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_1nfY-Isk8D1vjqthX5vuaStUSYz0k9te",
+      "courseId": "21",
+      "parentId": "f_43c37d37-1f67-4c4a-9df6-eb7a65306480",
+      "title": "Mongo Installation | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 403,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PgdwRzI1dTM5udy6s9kLeujvmjYw2ECD",
+      "courseId": "21",
+      "parentId": "f_ee3238e4-6434-48b1-a003-057c79c4a7f7",
+      "title": "Prisma Video | Cohort 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 6667,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_mW0jz2FEwMAKj-SyS74ZDiSgGB8CbtXh",
+      "courseId": "21",
+      "parentId": "f_28ac0be0-48dc-476e-911d-963f3ed615d2",
+      "title": "AWS ERC, ECS and container orchestation | Cohort 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8990,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_K2hpv8D1ydYYnJ8nXDzgC-SZeo7mvtQS",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 2 - Web Development | JavaScript Basics | 23/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 6204,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2kdxG-BaVoDE7IN31FmZdSW3exAz7XG8",
+      "courseId": "21",
+      "parentId": "5112",
+      "title": "2. Processing (p5.js) setup and issue solving",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 3172,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_iwlHNO25_CBPYouAOjHDE08e3c9btpXq",
+      "courseId": "21",
+      "parentId": "f_5d694508-3923-4862-a278-9be9ae58fd78",
+      "title": "Deploying to AWS",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 8447,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_NJ2FghC8a8Zm4VshAHwhFl7gvFD9sjX2",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 3 - Web Development | Promises, Callbacks, CPU vs IO Tasks | 30/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 6649,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_3g6kbMWKBfDYkKJ1vBQhVEa9WXGxFs7I",
+      "courseId": "21",
+      "parentId": "5112",
+      "title": "3. Processing (p5.js) setup and issue solving (By Ex GSoC student)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 4590,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Y5qRPELzNNDTfLtirPN_SrMq9MgkuCRj",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 2104,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_QXAGR3wz1VASEjrY7ujZW3LcDBNt7cJN",
+      "courseId": "21",
+      "parentId": "f_5d694508-3923-4862-a278-9be9ae58fd78",
+      "title": "Deploying Frontends on AWS",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 3866,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_lki05BjnIlImn4kCVoaXK4JykvjTHcP4",
+      "courseId": "21",
+      "parentId": "f_ee3238e4-6434-48b1-a003-057c79c4a7f7",
+      "title": "Postgress Video - Part 2 | Cohort 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 5550,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HfH5TeESde8ewd6C10Mym-9wrmDPbHHp",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 3.1 - Web Development | Map, Filter and Arrow functions ( Offline Video - Cohort 2 )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 1153,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_F0qmJw7gpQbocPgX86SS3e_-H9vyOA91",
+      "courseId": "21",
+      "parentId": "5100",
+      "title": "Real time communication, Distributed computing",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 8599,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_cmtmMd55z9dBQHrq0QDPMNUtazLvi1q2",
+      "courseId": "21",
+      "parentId": "3787",
+      "title": "Week 1.3 | Offline class | Basic JS APIs",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 4035,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_UtbFjYSvfT-c8giqlO32F6OfsntrpmiZ",
+      "courseId": "21",
+      "parentId": "f_ee3238e4-6434-48b1-a003-057c79c4a7f7",
+      "title": "Prisma Video - Part 2 |  | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 6667,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_yO7d8O_3p7S2X7w6qUkxCE-qVdzPFhYS",
+      "courseId": "21",
+      "parentId": "5112",
+      "title": "GSoC Backend Contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 5856,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hA8qQ9P4fVwsB4dM-KXM0-MpIQk97sas",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 3263,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_NXd2b_EBlAS2X08-emwo4YrFORNYcKSU",
+      "courseId": "21",
+      "parentId": "3787",
+      "title": "Week 1.4 | Loops, Functions, Callback functions",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 2128,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hibtI_ClNz265-17zA2kz-iCtpIb9Gpk",
+      "courseId": "21",
+      "parentId": "f_ee3238e4-6434-48b1-a003-057c79c4a7f7",
+      "title": "Prisma | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 7437,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hUEAHHILFuewwhBNaTg4ixWk6Ajwit_H",
+      "courseId": "21",
+      "parentId": null,
+      "title": "Orientation Class and Warming Up | 04/01/2025",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 4262,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search",
+        "root"
+      ]
+    },
+    {
+      "id": "preview__cBQquWwARFmP7znai2VU9D2-UZkLwZX",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 5 - Web Development | Writing promises and async await | 13/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 7117,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_nW18YmAbokuxrDBMECvbbTSmrU-YMHnB",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 4",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 2801,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_BlgBqwbuAWywBurwOkGSrieYZW9OX5AH",
+      "courseId": "21",
+      "parentId": "f_ee3238e4-6434-48b1-a003-057c79c4a7f7",
+      "title": "SQL Joins and Relationships | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 5164,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_18jCPyKbElMxIlj1JmPBB42dlzZftj2D",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 6 - Web Development | Starting Frontend ( DOM Basics ) | 20/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 6123,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_45omV2fOMuBFCIm87qTVpU-S7W5fYf0S",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 5",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 1726,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_acnmfDw7fvgSoqvMNKz5zkF-hPwyflt8",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 6",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 1406,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_J_u4mAqCExe60vhsYF8QuC-DR3_aNIXQ",
+      "courseId": "21",
+      "parentId": "f_ee3238e4-6434-48b1-a003-057c79c4a7f7",
+      "title": "Prisma Recap, Relationships in Prisma | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 3503,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_FaxsO3-Ekb7v4jkth2bWgPoTauyg680F",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "[Week 7 Offline] HTTP Part 1 (Payloads, Domains, IPs, Routes)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 5966,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rH1LoATKr_osMyq4D3d5jsCbAczp-iqk",
+      "courseId": "21",
+      "parentId": "5113",
+      "title": "TRpc Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 8341,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JjvO5rQjxZFUT1LSr5AIh0i3tjrYAU1X",
+      "courseId": "21",
+      "parentId": "6609",
+      "title": "Node.js, Bun and JS runtimes | [ Cohort 3 ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 8568,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ItHqNuWYZfIzl9F3ukJM8vmFFZL5O8N0",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 7",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 4358,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__VRVHCTBHeZ_eplmFtqHp-eXojg17QRg",
+      "courseId": "21",
+      "parentId": "f_ee3238e4-6434-48b1-a003-057c79c4a7f7",
+      "title": "Postgres and SQL databases - Part 2 | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 7180,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_myL708dl5vD8cauwMxSVU7BZ9B8pv3H9",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 8 - Web Development | HTTP Part 2 - Headers, Params and Express \u2014 Writing your first HTTP server | 06/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 6863,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_nYoLZXStNj8Sub1uyVou2qr6aGhl5Ge6",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 8",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 4936,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_4LxjwMQHAn6rlLjSdcDPIxCReHSW_B04",
+      "courseId": "21",
+      "parentId": "6609",
+      "title": "Bash and Terminals | [ Cohort 3 ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 2074,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_0k6hDTEW1GfGCYzgYUjVYQzfNUDjsiFa",
+      "courseId": "21",
+      "parentId": "f_ee3238e4-6434-48b1-a003-057c79c4a7f7",
+      "title": "Postgres and SQL databases | Cohort 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 8995,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_xn_TOi4uLsgPl7URWXMNtwVHR_XWUDNO",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Axios vs Fetch | [ Cohort 2 ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 1302,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_lxyqugBaUFCe7zSLbRBiuhykqlyl7B73",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 9",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 3726,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_QnIvoO5xPq5az4Qeby3YobYhyBNj78ww",
+      "courseId": "21",
+      "parentId": "7038",
+      "title": "LinkedIn Project | Part 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 5178,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Z_G-qw9lQDox2XB3uPEZse0eLJ5HOqJ1",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 10",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 4480,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_eQyWxS1xSIMycRNKufyHu16bBmC0XXwf",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Middlewares | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 9236,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2wrez65d9sdZQtMt9if45ID3bfUvf1Gn",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 9 - Web Development | Authentication and JWT | 14/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 7255,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_DDkbLoTuneQwGYEYjt8e3NmLTcDjI9Zw",
+      "courseId": "21",
+      "parentId": "7038",
+      "title": "LinkedIn Project | Part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 779,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9uFBw0jhuae4LnLoRIvGJV80PAgoSraO",
+      "courseId": "21",
+      "parentId": "4991",
+      "title": "React Native Bootcamp | Day 11",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 3168,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rCOMdtNvXwy7PkIt213Wlg9627lJ4Tqs",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Authentication using cookies | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 4664,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_CORrS17axlUsc79L9SOCWTbtDRKnAAWc",
+      "courseId": "21",
+      "parentId": "7038",
+      "title": "LinkedIn Project | Part 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 4389,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HRxNgEPLsrt1wBpO4xDBzXHWOaPjA_wQ",
+      "courseId": "21",
+      "parentId": "7038",
+      "title": "LinkedIn Project | Part 4",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 4342,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_MCkJHT-AJl4WIu4e-1s44hBMJ-Fc-ruL",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 10 - Web Development | End to End App (Trello) Using DOM and Express | 20/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 5735,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_z-awlpW3Jm0MTeX0-fuzGsJMInWVIrzN",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 11 - Web Development | Databases | 27/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 5488,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_s9N5eYvATozI8YeOSZz4g-BujX8307DD",
+      "courseId": "21",
+      "parentId": "6441",
+      "title": "Building Youtube - Part 1 | [100xSchool Offline Lecture]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 7108,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JG4xZOP2okNh4Ucw4cXpkfPIw6Xemly2",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 12 (Offline): Migrating Trello to MongoDB | 05/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 3134,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_nrOHPCjbJvgszRqPzLj57mMe0vGiWMZ9",
+      "courseId": "21",
+      "parentId": "6441",
+      "title": "Building Youtube - Part 2 | [100xSchool Offline Lecture]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 6409,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HORZl1eGQJTETORkNA8nZiQvjJqBVzmS",
+      "courseId": "21",
+      "parentId": "6441",
+      "title": "Building Youtube - Part 3 | [100xSchool Offline Lecture]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 4963,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rzodTyRlE3GqpTQQkFQDpVOWeXbCEg1V",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "(Extra, Not for Beginners) | AppX Schema Designing | [100xSchool Offline Lecture]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 21,
+      "durationSecs": 5295,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_1KSwh88NyqGGT3zrgAhuTrUyyUq1Vhml",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 13.1 (Offline): Relationships and Joins in SQL | 17/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 3837,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_bwU9KWPsdry9R3pmu4cRc6Y33Bda4En-",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 14 - Web Development | Type Safety with Zod and Password Hashing | 18/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 24,
+      "durationSecs": 3691,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_69MAnyrS_f59mW-tNH-REKcJalqdchLz",
+      "courseId": "21",
+      "parentId": "7053",
+      "title": "React from basics (Part 1)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 24,
+      "durationSecs": 8675,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PqgQ4hBOddHvVj3ipR6LK3maGuCW_R8B",
+      "courseId": "21",
+      "parentId": "7053",
+      "title": "React from basics (Part 2)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 25,
+      "durationSecs": 3316,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2rN8xxrHtVyUn9OEnMtcSK0M3TLT709o",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 17 - Web Development | Starting a New Project | 08/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 28,
+      "durationSecs": 5383,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_1bl6ex_nDBlrLFSzgml5xZSI6Do5tt9s",
+      "courseId": "21",
+      "parentId": "7268",
+      "title": "State management using Recoil",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 29,
+      "durationSecs": 8508,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7G9d2D02gqqrmOtxhKiEQoPKUeLvqNCs",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Prisma and ORMs ( Cohort 3 )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 31,
+      "durationSecs": 7318,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_v06CPCynSgAu47OyqaxeksXEjRstGkBe",
+      "courseId": "21",
+      "parentId": "7282",
+      "title": "Tailwind, ref arrays and building components",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 33,
+      "durationSecs": 7933,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Qh44GG7KBGXewi77DB2AxgwWTchBKMD0",
+      "courseId": "21",
+      "parentId": "7282",
+      "title": "Tailwind Part 2, Creating sidebars",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 34,
+      "durationSecs": 7436,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_bCL-wY5MquoPSYkwqwwVt8NEIVA0DdT-",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 18 - Web Development | React: Part 1 | 15/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 34,
+      "durationSecs": 3587,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Rj1Y1GFoUIj3wCuqqMHOAO10N2mxXNPX",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 19 - Web Development | React Part 2 | 22/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 35,
+      "durationSecs": 5137,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Nc586sHelE3y4whe6wFWpx3TwJ2efS83",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 20 - Web Development | React Part 3 | 29/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 38,
+      "durationSecs": 7055,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_p6Y9XxCnGWytn17UWHqIU88zkduyd-Ct",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 21 - Web Development | (Part-1) React Part 4 | 05/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 39,
+      "durationSecs": 3387,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_LKud7Vv9o273RuW46iRSyES2zo8e1gq9",
+      "courseId": "21",
+      "parentId": "5115",
+      "title": "Ui/Ux Primitives by Keshav - Part 1 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 40,
+      "durationSecs": 8941,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_mfGfSoGqlM1vdo_Ivt03CE3FFzIaIBeC",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 21 - Web Development | (Part-2) React Part 4 | 05/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 40,
+      "durationSecs": 2475,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_3PILlpbf7867GGA8IaTVC9eWm29rSwul",
+      "courseId": "21",
+      "parentId": "5115",
+      "title": "Ui/Ux Primitives by Keshav - Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 41,
+      "durationSecs": 8247,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_VyY_G--_iKT8oUj6jY7VQ_VrON1v0Awh",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 22 - Web Development + Web3 | Project Class | 14/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 41,
+      "durationSecs": 7857,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HZjBR3tRMZ5mer4Nk87rNafRguZ-btqH",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 23 - Web Development | React Query and State Management | 19/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 42,
+      "durationSecs": 5546,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rG6YbNz6BvpisSTG8dx8LA61rqGhMo9-",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 24 - Web Development | Queues, Pub Sub, and Async Backend Communication | 26/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 45,
+      "durationSecs": 5111,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ARNjUYpOF96v4epRewOJLRQ-EjL49VAq",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 24.2 - Web Development | LeetCode - Part 2 | 28/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 46,
+      "durationSecs": 5169,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_AJfx9WPYmCy2shzfNSAO3I3BGgpMydMi",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 25 - Web Development | State Management (Zustand) | Offline video",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 47,
+      "durationSecs": 2145,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2k5qy5O9sYsNNjfng_udiSNwwRcDR3ZM",
+      "courseId": "21",
+      "parentId": "6954",
+      "title": "Building PayTM Project",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 48,
+      "durationSecs": 7553,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rLBxvgMUwwKaL_sEfC5Q0FGHPlnsq2DW",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 26 - Web Development | Starting Next.js | 10/07/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 48,
+      "durationSecs": 4158,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_at2sTEZAEhsRfDvgFDhXqJX-7eZh2xR7",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 27 - Web Development | Next.js - Part 2 | 17/07/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 49,
+      "durationSecs": 5293,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_6TF40AMJRfV4yFQx6FQEVmBVNFlgth35",
+      "courseId": "21",
+      "parentId": "6954",
+      "title": "PayTM Frontend",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 50,
+      "durationSecs": 3862,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Koe0luKsdEM02qlKVMXR09q6-FHavl1t",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 28 - Web Development | Next.js - Part 3 | 24/07/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 50,
+      "durationSecs": 10181,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sW8aSGQkLuZa5v2dEXgNEqsJxVDFgrRv",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 29 - Web Development | NextAuth | 31/07/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 51,
+      "durationSecs": 5155,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_lEcwzMG3DVmHatm6k6dZWn4PJfzw42jJ",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 32 - DevOps | Docker and Containerization | 22/08/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 54,
+      "durationSecs": 6466,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Sa7h8rbN2ktXXf4avE6tWkiRYqOuel6n",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Actionable Docker (DevOps)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 55,
+      "durationSecs": 1947,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7JUZ4LRlIvX3L0wkuCGXqFZsFWjIzeFr",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 33 - DevOps | Docker - Part 2 | 28/08/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 56,
+      "durationSecs": 5696,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_FKXnALIhlrg5tp-5WDy--limvOe2Rvpa",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 33 - DevOps | Docker - Part 3: Docker-Compose | 04/09/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 57,
+      "durationSecs": 1642,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2-bsnKceSjB3Udc8MFOmjq9Lo_1i7Q-Q",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Capacity estimation, Horizontal and vertical scaling, Scaling Node.js and ASGs | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 58,
+      "durationSecs": 7608,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_EKMLoRLw3xasIyB9xIlmq_IeY96UohRX",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Auto Scaling Groups | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 59,
+      "durationSecs": 8301,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ZeQlQeSGy2MAJRXRdBDAPTQ62HrbjO0c",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 36 - DevOps | Kubernetes - Part 1 | Bootcamp 1.0",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 60,
+      "durationSecs": 5707,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_3sD9Cf27v-AtuwA7UpGg4LsrX8J-zJWt",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 36.2 - DevOps | Kubernetes - Part 2 | 20/09/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 61,
+      "durationSecs": 5047,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_d6AUlL_Z16GQMjYYRjra8f_Kj1F_wc1Q",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 36.2 - DevOps | Kubernetes - Part 2 (OBS) | 20/09/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 62,
+      "durationSecs": 4197,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_YflQtAGhqhrEtRQdgKxiv3P4tevJolxe",
+      "courseId": "21",
+      "parentId": "4154",
+      "title": "Week 37.1 - DevOps | Kubernetes - Part 3 | 25/09/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 63,
+      "durationSecs": 5860,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9cDT5aW3lWE4va1FSYApgOs5oENxbj38",
+      "courseId": "21",
+      "parentId": "5114",
+      "title": " Freelancing Masterclass",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 75,
+      "durationSecs": 8517,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_CP9SjuTmtDU8_VUbBDOO0kzM_0TxKX7A",
+      "courseId": "21",
+      "parentId": "5114",
+      "title": "Freelancing Masterclass part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 76,
+      "durationSecs": 8504,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Ixbn4i4tbJLQi4AW3Hge_fqfGJwxegUw",
+      "courseId": "21",
+      "parentId": "6954",
+      "title": "PayTM part 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 92,
+      "durationSecs": 7159,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_cyyZrOmXpwFqVbT8hJZUVMqQNkb3a8tL",
+      "courseId": "21",
+      "parentId": "6954",
+      "title": "PayTM Part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 93,
+      "durationSecs": 6288,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__mnbUN09yuLzPT86dr2GHWy4f9KXf9KR",
+      "courseId": "21",
+      "parentId": "6954",
+      "title": "PayTM Part 3 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 94,
+      "durationSecs": 5386,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_H186hZHtcW1x-5RDxT7j9lHl8C7Qx8lf",
+      "courseId": "21",
+      "parentId": "6954",
+      "title": "PayTM Part 4",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 95,
+      "durationSecs": 2332,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_xFDM-oaQ7hHm_3M4vnvK0NUcQz3G0aAu",
+      "courseId": "21",
+      "parentId": "6954",
+      "title": "Adhoc Coding - PayTM Merchant App",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 147,
+      "durationSecs": 8128,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_pxLtt9wj4oATFe2Ax0Gbw11qrjgd4W8d",
+      "courseId": "21",
+      "parentId": null,
+      "title": "Discord Invite",
+      "description": null,
+      "materialType": "LINK",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "preview_4XRplNOQtdw_7ta5pEGgcGL39mfopP6f",
+      "courseId": "21",
+      "parentId": null,
+      "title": "How to join Discord server",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 74,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "3887",
+      "courseId": "21",
+      "parentId": null,
+      "title": "Syllabus",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "3766",
+      "courseId": "21",
+      "parentId": null,
+      "title": "Warmup Videos",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "preview__oCO_A9Bhv9wobwLlHMa4JN-zSjfCJ4k",
+      "courseId": "21",
+      "parentId": null,
+      "title": "Slides and Assignments",
+      "description": null,
+      "materialType": "LINK",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4154",
+      "courseId": "21",
+      "parentId": null,
+      "title": " Web Dev + Devops Bootcamp Videos",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4991",
+      "courseId": "21",
+      "parentId": null,
+      "title": "React Native ( Optional / Bonus Sessions )",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4113",
+      "courseId": "21",
+      "parentId": null,
+      "title": "Extra Guest Lectures (Optional)",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4957",
+      "courseId": "21",
+      "parentId": null,
+      "title": "Extra Content ( Optional )",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    }
+  ]
+}

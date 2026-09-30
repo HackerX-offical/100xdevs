@@ -1,0 +1,30 @@
+{
+  "userId": "cmr6s8nkc27n66u2gpgqaiozt",
+  "ownedCourseIds": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "dsa-bootcamp"
+  ],
+  "findings": [
+    {
+      "id": "005",
+      "title": "Slug content route denies entitled users",
+      "severity": "Medium",
+      "evidence": "course 15: id hasAccess=True slug hasAccess=False"
+    },
+    {
+      "id": "004",
+      "title": "Unpurchased course search leaks module metadata",
+      "severity": "Medium",
+      "evidence": "course 24: 121 search hits without purchase"
+    },
+    {
+      "id": "004",
+      "title": "Unpurchased course search leaks module metadata",
+      "severity": "Medium",
+      "evidence": "course 21: 44 search hits without purchase"
+    }
+  ]
+}

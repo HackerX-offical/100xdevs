@@ -1,0 +1,86 @@
+{
+  "scrapedAt": "2026-09-30T14:11:44.071264+00:00",
+  "base": "https://course-backend.100xdevs.com",
+  "searchQuery": "a",
+  "courses": {
+    "24": {
+      "uniqueItems": 209,
+      "searchHits": 198,
+      "title": "100xSchool Combined Bootcamp"
+    },
+    "14": {
+      "uniqueItems": 253,
+      "searchHits": 248,
+      "title": "Complete Web Development + Devops + Blockchain Cohort | (Completed)"
+    },
+    "8": {
+      "uniqueItems": 292,
+      "searchHits": 281,
+      "title": "0-100 Complete | (Completed)"
+    },
+    "12": {
+      "uniqueItems": 196,
+      "searchHits": 192,
+      "title": "Complete Web development + Devops Cohort | (Completed)"
+    },
+    "23": {
+      "uniqueItems": 70,
+      "searchHits": 61,
+      "title": "AI and ML Bootcamp"
+    },
+    "21": {
+      "uniqueItems": 119,
+      "searchHits": 110,
+      "title": "Web Dev + Devops Bootcamp"
+    },
+    "22": {
+      "uniqueItems": 94,
+      "searchHits": 82,
+      "title": "Web3 Bootcamp"
+    },
+    "15": {
+      "uniqueItems": 157,
+      "searchHits": 153,
+      "title": "Complete Web Development Cohort | (Completed)"
+    },
+    "16": {
+      "uniqueItems": 114,
+      "searchHits": 110,
+      "title": "Complete Devops Cohort | (Completed)"
+    },
+    "13": {
+      "uniqueItems": 131,
+      "searchHits": 127,
+      "title": "Complete Web3/Blockchain Cohort | (Completed)"
+    },
+    "6": {
+      "uniqueItems": 256,
+      "searchHits": 248,
+      "title": "0-1 | (Completed)"
+    },
+    "7": {
+      "uniqueItems": 222,
+      "searchHits": 214,
+      "title": "1-100 | (Completed)"
+    },
+    "2": {
+      "uniqueItems": 115,
+      "searchHits": 90,
+      "title": "Full Stack Open Source Cohort 1 | (Completed)"
+    },
+    "winter-camp-2026-campus": {
+      "uniqueItems": 0,
+      "searchHits": 0,
+      "title": "Winter Camp 2026 - On Campus"
+    },
+    "winter-camp-2026-online": {
+      "uniqueItems": 11,
+      "searchHits": 8,
+      "title": "Winter Camp 2026 - Online"
+    }
+  },
+  "totals": {
+    "courseCount": 15,
+    "itemsAllCourses": 2239
+  }
+}

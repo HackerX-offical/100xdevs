@@ -1,0 +1,273 @@
+{
+  "listing": {
+    "id": "winter-camp-2026-online",
+    "slug": "winter-camp-2026-online",
+    "title": "Winter Camp 2026 - Online",
+    "thumbnail": "/winter-camp-thumbnail.webp",
+    "logo": null,
+    "price": 2499,
+    "mrp": 3999,
+    "currency": "INR",
+    "examName": null,
+    "examCategory": null,
+    "isCombo": false,
+    "validity": null,
+    "validityMonths": 24,
+    "enabled": true,
+    "categoryId": null,
+    "videoCount": 0,
+    "pdfCount": 0,
+    "testCount": 0
+  },
+  "meta": {
+    "data": {
+      "id": "winter-camp-2026-online",
+      "slug": "winter-camp-2026-online",
+      "title": "Winter Camp 2026 - Online",
+      "thumbnail": "/winter-camp-thumbnail.webp",
+      "logo": null,
+      "price": 2499,
+      "mrp": 3999,
+      "currency": "INR",
+      "examName": null,
+      "examCategory": null,
+      "isCombo": false,
+      "validity": null,
+      "validityMonths": 24,
+      "enabled": true,
+      "categoryId": null,
+      "videoCount": 8,
+      "pdfCount": 0,
+      "testCount": 0,
+      "description": "12 weeks of live DSA, web development and applied AI classes, plus recordings for 2 years.",
+      "demoVideo": null,
+      "features": [],
+      "teacherName": "Dhruv, Rahul and Harkirat Singh",
+      "teacherImage": null,
+      "isPurchased": false,
+      "includedCourses": [],
+      "visibleCoupon": {
+        "id": "cmui0np7g0000q3m6vnwtra8s",
+        "code": "EARLYBIRDONLINE",
+        "discountType": "flat",
+        "discountValue": 500,
+        "expiresAt": "2027-01-04T18:30:00.000Z",
+        "showCountdown": false,
+        "originalAmount": 2499,
+        "discountAmount": 500,
+        "finalAmount": 1999,
+        "currency": "INR"
+      }
+    }
+  },
+  "searchHits": 8,
+  "rootItems": 3,
+  "uniqueItems": 11,
+  "items": [
+    {
+      "id": "preview_9H46ChilCz0R6nf0rSSMgS5NOYC1Mk7t",
+      "courseId": "winter-camp-2026-online",
+      "parentId": "f_5d58a6f6-2a15-4416-babc-a57564794b60",
+      "title": "Week 1 - DSA | Introduction to C++ | 15/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8822,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_kT0NiZknldKM2JjXuPlUUnzsuoJz3kKA",
+      "courseId": "winter-camp-2026-online",
+      "parentId": "f_5d58a6f6-2a15-4416-babc-a57564794b60",
+      "title": "Week 2 - DSA | Loops and Pattern Printing | 22/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 9476,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_U59Un-vZS24x94BcXQch4ws4OH3vL4Hw",
+      "courseId": "winter-camp-2026-online",
+      "parentId": "f_5d58a6f6-2a15-4416-babc-a57564794b60",
+      "title": "Week 2.1 - DSA | Pattern Printing Solutions ( Offline Video ) | 25/01/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 4309,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_l5Ub2YgR6RMs787JUMmg9wgivcc-FLPc",
+      "courseId": "winter-camp-2026-online",
+      "parentId": "f_5d58a6f6-2a15-4416-babc-a57564794b60",
+      "title": "Week 3 - DSA | Functions | 29/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 10045,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_GIfLUXnGARZyE8OIF-xMDXPdKE8Pi6Ek",
+      "courseId": "winter-camp-2026-online",
+      "parentId": "f_5d58a6f6-2a15-4416-babc-a57564794b60",
+      "title": "Week 4 - DSA | Arrays | 05/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 9065,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_j038jvyeP6ez4DXl96laS-DdxmfkntIH",
+      "courseId": "winter-camp-2026-online",
+      "parentId": "f_5d58a6f6-2a15-4416-babc-a57564794b60",
+      "title": "Week 5 - DSA | Strings / 2D Arrays | 12/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 10464,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Aq-iiyGlyJM_Ppu3VKtZjfAhLUXTbIOR",
+      "courseId": "winter-camp-2026-online",
+      "parentId": "f_5d58a6f6-2a15-4416-babc-a57564794b60",
+      "title": " Week 6 - DSA | Sorting & Searching Basics | 19/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 8133,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_5v6qpCh0izCOCNFBzCrB9pzNSCK5nmRl",
+      "courseId": "winter-camp-2026-online",
+      "parentId": "f_5d58a6f6-2a15-4416-babc-a57564794b60",
+      "title": "Week 7 - DSA | Mixed Problem Solving Session | 26/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 7023,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "f_e76cfe37-3a4e-46fb-830c-cd9ce628d548",
+      "courseId": "winter-camp-2026-online",
+      "parentId": null,
+      "title": "DSA",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "f_b9a89e6f-7a72-44a0-bb9e-aef3643c352d",
+      "courseId": "winter-camp-2026-online",
+      "parentId": null,
+      "title": "Web Dev",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "f_8f42aca9-b1b7-4cfe-9304-9222efebbfe8",
+      "courseId": "winter-camp-2026-online",
+      "parentId": null,
+      "title": "Applied AI",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    }
+  ]
+}

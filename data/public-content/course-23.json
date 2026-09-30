@@ -1,0 +1,1325 @@
+{
+  "listing": {
+    "id": "23",
+    "slug": "ai-and-ml-bootcamp",
+    "title": "AI and ML Bootcamp",
+    "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/3d84a16fbf66d6935aafc12af7ea76c397964339a03eca9800782d0662a5e654.jpeg",
+    "logo": null,
+    "price": 3999,
+    "mrp": 5999,
+    "currency": "INR",
+    "examName": null,
+    "examCategory": null,
+    "isCombo": false,
+    "validity": "36 months",
+    "validityMonths": 36,
+    "enabled": true,
+    "categoryId": null,
+    "videoCount": 0,
+    "pdfCount": 0,
+    "testCount": 0
+  },
+  "meta": {
+    "data": {
+      "id": "23",
+      "slug": "ai-and-ml-bootcamp",
+      "title": "AI and ML Bootcamp",
+      "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/3d84a16fbf66d6935aafc12af7ea76c397964339a03eca9800782d0662a5e654.jpeg",
+      "logo": null,
+      "price": 3999,
+      "mrp": 5999,
+      "currency": "INR",
+      "examName": null,
+      "examCategory": null,
+      "isCombo": false,
+      "validity": "36 months",
+      "validityMonths": 36,
+      "enabled": true,
+      "categoryId": null,
+      "videoCount": 120,
+      "pdfCount": 0,
+      "testCount": 0,
+      "description": "<p><span style=\"font-size:24px\"><strong>AI and ML Syllabus</strong></span></p>\n<p><img src=\"https://appx-content-v2.classx.co.in/paperimages/1766315363_1766315363590305_thump.png\" style=\"height:352px; width:700px\" /></p>\n<p>&nbsp;</p>",
+      "demoVideo": null,
+      "features": [],
+      "teacherName": "Rishabh",
+      "teacherImage": null,
+      "isPurchased": false,
+      "includedCourses": [
+        {
+          "id": "23",
+          "slug": "ai-and-ml-bootcamp",
+          "title": "AI and ML Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/3d84a16fbf66d6935aafc12af7ea76c397964339a03eca9800782d0662a5e654.jpeg",
+          "logo": null,
+          "price": 3999,
+          "mrp": 5999,
+          "currency": "INR",
+          "examName": null,
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 120,
+          "pdfCount": 0,
+          "testCount": 0
+        },
+        {
+          "id": "dsa-bootcamp",
+          "slug": "dsa-bootcamp",
+          "title": "DSA Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/9cab422f5e2f5f51cf724f867c6c1848507d57a64c7ad007ec77b477cae54fa8.png",
+          "logo": null,
+          "price": 0,
+          "mrp": 0,
+          "currency": "INR",
+          "examName": "DSA Bootcamp",
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 42,
+          "pdfCount": 0,
+          "testCount": 0
+        }
+      ],
+      "visibleCoupon": null
+    }
+  },
+  "searchHits": 61,
+  "rootItems": 10,
+  "uniqueItems": 70,
+  "items": [
+    {
+      "id": "preview_0RJsnv4VSLYUIrfxbEbIF2Ihn_c95jpK",
+      "courseId": "23",
+      "parentId": "5039",
+      "title": "Mumbai meetup",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4046,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_VKqfeDIQW0gRz1te6gX_NvcO7SA4uR35",
+      "courseId": "23",
+      "parentId": "5041",
+      "title": "React Interview Questions",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4352,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_jJSR7D8tRxCdfYpzbLTMVYMDjq4VjZeo",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 0 - AI and ML | Orientation | 09/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3935,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ppmyMp5EHS5nmPg1hDUwABkE5N5Qi9VR",
+      "courseId": "23",
+      "parentId": "5039",
+      "title": "Mumbai meetup (Enhanced audio)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3991,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9YLlSEjjK9zDU1xVgJmLX1Znn4kmXnnp",
+      "courseId": "23",
+      "parentId": "5046",
+      "title": "Ad-hoc GSOC contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 7085,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_remB8gDZz1edF45EsCB5ZE7X4Sy-Jj0b",
+      "courseId": "23",
+      "parentId": "4111",
+      "title": "Rishi\u2019s Frontend Session | Extra Class ( Optional ) | 20/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3973,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_y34AzFJqbpkoiK1SD6yhTuNBOh6MlS3S",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 5182,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_IlQq71LRCXKZQUQwgpUN-2IUDuysMVF6",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 1 - AI and ML | Fast-tracking the course of AI | 18/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8361,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_zLQkXFGCGGvAWsGjleXTHTnKN0nQuAgx",
+      "courseId": "23",
+      "parentId": "5046",
+      "title": "2. Processing (p5.js) setup and issue solving",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 3172,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_66BxOciNMTRpX-RfB9ynKc_N1Ysr60Qj",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 2 - AI and ML | Neural Networks from Scratch | 24/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 8336,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ugzk70n1PL0QHr50r85Ff4N1XGY8NGAV",
+      "courseId": "23",
+      "parentId": "5046",
+      "title": "3. Processing (p5.js) setup and issue solving (By Ex GSoC student)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 4590,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Kqk-0tNfRHKW_BpvKp19vYv9xWGzuGDz",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 3 - AI and ML | Transformers- Part 1 | 31/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 8791,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_oDYbWwojxnO2688SXWlTHBgmsNckFsDH",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 2104,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__XvGV1G7Ca5bXz8o7QPShW4-EqiVInW1",
+      "courseId": "23",
+      "parentId": "5034",
+      "title": "Real time communication, Distributed computing",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 8599,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_f0itdw6PDrlTh7FSRWYnjDI0OQZ2SkR3",
+      "courseId": "23",
+      "parentId": "5046",
+      "title": "GSoC Backend Contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 5856,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2AWX0e5S-qHXMbWra4v6gJ7ixgP_4qJr",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": " Week 4 - AI&ML | Transformers: Part 2 | 07/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 7228,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_254ew4yQTF7fNPSMcYATcXWxfA5oID7B",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 3263,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_3Xh9OlxWSbf7bid6bAgalUm9E9HGDirt",
+      "courseId": "23",
+      "parentId": null,
+      "title": "Orientation Class and Warming Up | 04/01/2025",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 4262,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search",
+        "root"
+      ]
+    },
+    {
+      "id": "preview_83UIQqOqUvIiBlhZWrSLLwyAuejIlVXk",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 5 - AI&ML | Introduction to Tensors and PyTorch | 14/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 7643,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__Yyy78kMIcKUInuT9ZQfkNwKbzMpMmWU",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 4",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 2801,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_83QbYEIVdegWpKo9wXQKkzw94eazTGl3",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 6 - AI&ML | What Changed Since 2017 \u2014 and Let's Build It | 21/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 7299,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_VPbupZ4nxWeTg8kQgeAuI--buC8dh3zT",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 5",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 1726,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_AuciHAJACww_A5ArhsdvAriHwrenxact",
+      "courseId": "23",
+      "parentId": "7141",
+      "title": "How Modern AI Agents Work Under the Hood ( Part 2 )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 2854,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ju-44tEh0lXSkKnJwfNKwGqkwR96f1Wp",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 6",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 1406,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sP8xLyeSPxGUP1VECg-G4g_E_X9E_JUa",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 7",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 4358,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_X1ZKYnyV6ZhWWprbOC7v06UIJVmvnN0_",
+      "courseId": "23",
+      "parentId": "5047",
+      "title": "TRpc Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 8341,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_bvauI-HVNCVqGfikRwNhvi9w9wUYQ_lB",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 8",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 4936,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_uK6dOi8nOKicPnXq2vEvLC2OfxWXqNzQ",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 9",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 3726,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7AR4qgWy2h9egqGBXRPLO02lqhnh7Riy",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 10",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 4480,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_59fm4zAb8m8Zd_B2VyNX94J4faw70FRA",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 7 - AI&ML | Training Your First Model | 28/02/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 5667,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_84to5ShFiBuzF1-WRt7L39KjbRIp06A5",
+      "courseId": "23",
+      "parentId": "4981",
+      "title": "React Native Bootcamp | Day 11",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 3168,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_dENsxzf74g9ALA_9aUO__OrwEZuJbbW4",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 8 - AI&ML | From APIs to Agents | 07/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 7028,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2yWP3ApO-3ATrsJVbjrxH95X194M3xyK",
+      "courseId": "23",
+      "parentId": "7399",
+      "title": "Memory | Class by Samiksha | 20/06/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 5648,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Y1dcGnKPVwZQmK9e9qm5YdoO_y3eylMT",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 9 - AI&ML | RAG from the Ground Up - Part 1 | 13/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 5963,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_LfhEzsu-QXpCzBKp57Iz1mLmR3Uft6ua",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 10 - AI&ML | RAG Continuation - Part 2 | 23/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 5412,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_p6Z0_2rttHpDBJBtb7J8U1CC77pQ1ku5",
+      "courseId": "23",
+      "parentId": "7399",
+      "title": "Memory II | Class by Samiksha | 21/06/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 3302,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Yp6HABYFzc7NqTFb3ZcT-fR6O8cUzePw",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 11 - AI&ML | Recursive Language Model | 28/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 5741,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JVN9rM70Ut_5yXc3OgY7oaqNSRE5dVHA",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 12 - AI&ML | Fine-tuning | 04/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 6353,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_mFKNV6JmvdUD57wNRD1gNbQsd5BlWrPQ",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 13 - AI&ML | Fine-tuning - Part 2 | 11/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 6260,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ZzMUlAYoHBAirebFjX8jvLFe9ZaCVcm-",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 14 - AI&ML | Fine-tuning - Part 3 | 17/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 20,
+      "durationSecs": 5720,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_4S1EvgfwWIaW5UbzeHwzBoXMaggreMRk",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 15 - AI&ML | RLVR | 25/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 21,
+      "durationSecs": 5872,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_P1BK7ykPtuXD7bMq6dWMQSNTSPpLvQhj",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 16 - AI&ML | Offline: RL Environments for LLMs | 08/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 4247,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tRUg7w-ZGiGhzuA6MhfbzoVBP6CwOtZZ",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 17 - AI&ML | Harness, Context, and Evals | 09/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 23,
+      "durationSecs": 7678,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7kV5qhBTvYPasKCaFz9v3LVuEpA9s7wI",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 18 - AI&ML | Memory | 16/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 24,
+      "durationSecs": 7388,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9WiavDwKVNqrSq_nbn_pKmmsnbCeIQRo",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 20 - AI&ML | How To Read Research Papers | 31/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 25,
+      "durationSecs": 3162,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_cBR0ZpDMUWS8WmFMzdC3hhB649facUEP",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 21 - AI&ML | LangGraph | 06/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 26,
+      "durationSecs": 5013,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_zpuNFGXQqUCMN5D6i_41yTAEoAR-CeMk",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 22 - AI&ML | Coding an Agent (Assignment) | 13/12/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 27,
+      "durationSecs": 4862,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_LfBbpFPY5B0q0cIeJY9WChqwU_mNOlj-",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 23 - AI&ML | Hugging Face End-to-End | 20/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 29,
+      "durationSecs": 5390,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9vi4cdT1ZQaQS4bC2pzIRKqayicXoZbx",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 24 - AI&ML | LLM Observability | 01/07/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 31,
+      "durationSecs": 6326,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Pqq2r14hFZnKc8TzRa7OHdz5-UDSchaL",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 25 - AI&ML | Computer Use Agents | 08/07/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 32,
+      "durationSecs": 4377,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sddLwPukcueR4_UaZQlue07cBpgC5klR",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 26 - AI&ML | Evals | 11/07/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 33,
+      "durationSecs": 5660,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_-JCsbf3j0x5iBab2NmXcIryFqur1DfpZ",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Evals, Benchmarks and RL environments | Super 30 Class ( Extra/Optional )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 34,
+      "durationSecs": 6329,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_EKpEzks9kiltU4USdj1vH40kMP9rufS7",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Building Terminal Agent - (Claude Code CLI Project)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 35,
+      "durationSecs": 3752,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_gjllKzwbxYOC0zHDpD2jfr39WveXdyji",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 30 - AI | Writing Evals in Harbor Framework | 09/08/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 36,
+      "durationSecs": 3133,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_VHw5Q5Hba90LTp9eMAb41C74FBnK4aUD",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Writing Evals in Harbor Framework | Super 30 Class",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 37,
+      "durationSecs": 4140,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__YoFOltACwwtJIRDDNCpF5fzLECXCjr5",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 31 - AI | AMA/Doubt Session | 15/08/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 38,
+      "durationSecs": 4169,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_5wUBepf3QAKGnYC3WKbaRHkv3TKYWQZs",
+      "courseId": "23",
+      "parentId": "4148",
+      "title": "Week 32 - AI | Inference | 06/09/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 39,
+      "durationSecs": 5693,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tlyvuDL5aDtPDOQG7biCxFTroa5dJZ4D",
+      "courseId": "23",
+      "parentId": "5049",
+      "title": "Ui/Ux Primitives by Keshav - Part 1 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 40,
+      "durationSecs": 8941,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_KHM0vI9cEz-VKtMAObtDPpgZExJDX-Cb",
+      "courseId": "23",
+      "parentId": "5049",
+      "title": "Ui/Ux Primitives by Keshav - Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 41,
+      "durationSecs": 8247,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_KCWeDAwTWkMni8V3npDh1S6fv-OsrssZ",
+      "courseId": "23",
+      "parentId": "5048",
+      "title": " Freelancing Masterclass",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 75,
+      "durationSecs": 8517,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sQfOPMEdZlbIOUwh-Qmzl9z7De1JVLfM",
+      "courseId": "23",
+      "parentId": "5048",
+      "title": "Freelancing Masterclass part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 76,
+      "durationSecs": 8504,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_pOttHAqjC7uRH7xcFkLy_VX8waopJlfO",
+      "courseId": "23",
+      "parentId": null,
+      "title": "Discord Invite",
+      "description": null,
+      "materialType": "LINK",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "preview_fQGMzMjNZ1eSWwZ5L9P0Qetko2qbw_pP",
+      "courseId": "23",
+      "parentId": null,
+      "title": "How to join Discord server",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 74,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "3892",
+      "courseId": "23",
+      "parentId": null,
+      "title": "Syllabus",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "3778",
+      "courseId": "23",
+      "parentId": null,
+      "title": "Resources for warmup",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "preview_Ma0vhXWk3AEzuCkE_ZG40rmYhCe3yu-i",
+      "courseId": "23",
+      "parentId": null,
+      "title": "Slides and Assignments",
+      "description": null,
+      "materialType": "LINK",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4148",
+      "courseId": "23",
+      "parentId": null,
+      "title": "AI and ML Bootcamp Videos",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4981",
+      "courseId": "23",
+      "parentId": null,
+      "title": "React Native ( Optional / Bonus Sessions )",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4111",
+      "courseId": "23",
+      "parentId": null,
+      "title": "Extra Guest Lectures (Optional)",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4955",
+      "courseId": "23",
+      "parentId": null,
+      "title": "Extra Content ( Optional )",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    }
+  ]
+}

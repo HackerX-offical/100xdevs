@@ -1,0 +1,97 @@
+{
+  "base": "https://course-backend.100xdevs.com",
+  "authenticated": false,
+  "probedAt": "2026-09-30T13:30:41.411425Z",
+  "results": [
+    {
+      "method": "GET",
+      "path": "/health",
+      "status": 200,
+      "snippet": "{\"status\":200,\"message\":\"ok\"}"
+    },
+    {
+      "method": "GET",
+      "path": "/home",
+      "status": 200,
+      "snippet": "{\"banners\":[],\"featured\":[{\"id\":\"24\",\"slug\":\"100xschool-combined-bootcamp\",\"title\":\"100xSchool Combined Bootcamp\",\"thumbnail\":\"https://assets-cms.b-cdn.net/course-thumbnails/c397a1e66d5515d3a39251fd2d"
+    },
+    {
+      "method": "GET",
+      "path": "/courses/categories",
+      "status": 200,
+      "snippet": "{\"data\":[{\"id\":\"2\",\"name\":\"Old Programs\",\"slug\":\"old-programs\",\"logo\":null}]}"
+    },
+    {
+      "method": "GET",
+      "path": "/courses/web-dev-devops-bootcamp",
+      "status": 200,
+      "snippet": "{\"data\":{\"id\":\"21\",\"slug\":\"web-dev-devops-bootcamp\",\"title\":\"Web Dev + Devops Bootcamp\",\"thumbnail\":\"https://assets-cms.b-cdn.net/course-thumbnails/0300f4500999a2abdc9225a12f3ef1b128065aff43b7b5d1acf6"
+    },
+    {
+      "method": "GET",
+      "path": "/courses/web-dev-devops-bootcamp/content?parentId=-1&includeExpiredAccess=true",
+      "status": 200,
+      "snippet": "{\"data\":[],\"hasAccess\":false}"
+    },
+    {
+      "method": "GET",
+      "path": "/payments/currencies",
+      "status": 200,
+      "snippet": "{\"data\":[{\"code\":\"INR\",\"name\":\"Indian rupee\",\"exponent\":2},{\"code\":\"AED\",\"name\":\"United Arab Emirates Dirham\",\"exponent\":2},{\"code\":\"ALL\",\"name\":\"Albanian lek\",\"exponent\":2},{\"code\":\"AMD\",\"name\":\"Arme"
+    },
+    {
+      "method": "POST",
+      "path": "/payments/quote",
+      "status": 200,
+      "snippet": "{\"data\":{\"currency\":\"INR\",\"amount\":5999,\"amountMinor\":599900,\"baseAmountInr\":5999}}"
+    },
+    {
+      "method": "POST",
+      "path": "/auth/login",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Invalid email or password\"}"
+    },
+    {
+      "method": "POST",
+      "path": "/auth/password/forgot",
+      "status": 200,
+      "snippet": "{\"status\":200,\"message\":\"If that email exists, a reset code has been sent.\"}"
+    },
+    {
+      "method": "POST",
+      "path": "/auth/otp/send",
+      "status": 200,
+      "snippet": "{\"status\":200,\"message\":\"Code sent\"}"
+    },
+    {
+      "method": "GET",
+      "path": "/auth/me",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Authentication required\"}"
+    },
+    {
+      "method": "GET",
+      "path": "/purchases",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Authentication required\"}"
+    },
+    {
+      "method": "GET",
+      "path": "/dsa/overview",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Authentication required\"}"
+    },
+    {
+      "method": "POST",
+      "path": "/affiliate/visit",
+      "status": 204,
+      "snippet": ""
+    },
+    {
+      "method": "GET",
+      "path": "/admin",
+      "status": 401,
+      "snippet": "{\"status\":401,\"message\":\"Authentication required\"}"
+    }
+  ]
+}

@@ -1,0 +1,2193 @@
+{
+  "listing": {
+    "id": "2",
+    "slug": "live-full-stack-open-source-cohort-1-finished",
+    "title": "Full Stack Open Source Cohort 1 | (Completed)",
+    "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/96d2e5b5d59bcc53888f56d281b5854417588b14642d4601b2e122850ca54a12.jpg",
+    "logo": null,
+    "price": 2999,
+    "mrp": 4999,
+    "currency": "INR",
+    "examName": "Old Programs",
+    "examCategory": null,
+    "isCombo": false,
+    "validity": "36 months",
+    "validityMonths": 36,
+    "enabled": true,
+    "categoryId": null,
+    "videoCount": 0,
+    "pdfCount": 0,
+    "testCount": 0
+  },
+  "meta": {
+    "data": {
+      "id": "2",
+      "slug": "live-full-stack-open-source-cohort-1-finished",
+      "title": "Full Stack Open Source Cohort 1 | (Completed)",
+      "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/96d2e5b5d59bcc53888f56d281b5854417588b14642d4601b2e122850ca54a12.jpg",
+      "logo": null,
+      "price": 2999,
+      "mrp": 4999,
+      "currency": "INR",
+      "examName": "Old Programs",
+      "examCategory": null,
+      "isCombo": false,
+      "validity": "36 months",
+      "validityMonths": 36,
+      "enabled": true,
+      "categoryId": null,
+      "videoCount": 175,
+      "pdfCount": 0,
+      "testCount": 0,
+      "description": "<h2>Learn by doing open source contributions</h2>\n<p>The course is led by <strong>Harkirat Singh </strong>where we go through an intense <strong>8-10 weeks</strong> of learning the MERN stack in depth, and contributing to <strong>one</strong> big codebase, understanding it in depths and the general ethics when contributing to an open source codebase.</p>\n<p>&nbsp;</p>\n<h2>Program Description</h2>\n<p>The program is divided into 4 parts -</p>\n<ol>\r\n\t<li><strong>Understanding the MERN stack in depth -</strong> The first part of the course takes you through the fundamentals and basics of the <strong>MERN</strong> stack.</li>\r\n\t<li><strong>Moving from Javascript to Typescript - </strong>Making sure you never use JS again in your life, and all your code is written in TS.</li>\r\n\t<li><strong>Understanding Mono repos - </strong>Understanding how real world applications are structured, how code is shared between frontend and backend.</li>\r\n\t<li><strong>Contributing to open source - </strong>Contributing to one real world open source project. This project has raised more than <strong>$10 Mn, </strong>has a lot of activity on their Github and is a real business. We&#39;ll be breaking the project down into smaller subsets and contributing to them independently. Finally we&#39;ll be contributing to the main project.</li>\r\n</ol>\n<p>&nbsp;</p>\n<h2>Fee breakup</h2>\n<p>Early bird price of <strong>5999/$75</strong></p>\n<p>&nbsp;</p>\n<h2>Name of the organiser</h2>\n<p>Harkirat Singh</p>\n<p>&nbsp;</p>\n<h2><strong>FAQs</strong></h2>\n<p><strong>What will be the language of communication</strong></p>\n<p>English</p>\n<p><strong>What will be the timings of the classes</strong></p>\n<p>Live classes will happen on Saturday and Sunday 7PM IST onwards</p>\n<p><strong>What if I miss a class</strong></p>\n<p>You will get a recording after the class ends, although we strongly suggest you attend the class</p>\n<p><strong>How long will the cohort be</strong></p>\n<p>The cohort would be <strong>10 weeks</strong> but may extend based on the pace of the course</p>\n<p><strong>Will I have access to the course after it ends</strong></p>\n<p>You will have lifetime access to assignments.</p>\n<p>You will have access to the videos for 1 year</p>\n<p><strong>When does the course start?</strong></p>\n<p>The course starts on <strong>9th of June.</strong></p>\n<p><strong>Pre-requisites</strong></p>\n<p>To prepare for this course, please watch the video at this link: https://www.youtube.com/watch?v=W6NZfCO5SIk . Make sure you understand this video. Functions, objects, variables in Javascript. We will recap this in week 0 but strong suggestion for you to complete this. This is the <strong>ONLY</strong> pre-requisite.</p>\n<p><strong>How many sessions can be logged in at the same time?</strong></p>\n<p>You can log in with a maximum of 2 sessions simultaneously.</p>\n<p><strong>Will this course only focus on open source contributions or also cover learning the MERN stack?</strong></p>\n<p>This course covers both open source contributions and learning the MERN stack.</p>\n<p>The MERN stack will be taught from the basics. In lecture 0, we will review JavaScript concepts.</p>\n<p>&nbsp;</p>",
+      "demoVideo": "https://static-wsb.appx.co.in/paid_course3/2023-05-21-0.6258578055979667.mp4?URLPrefix=aHR0cHM6Ly9zdGF0aWMtd3NiLmFwcHguY28uaW4vcGFpZF9jb3Vyc2UzLzIwMjMtMDUtMjEtMC42MjU4NTc4MDU1OTc5NjY3Lm1wNA&Expires=1783151393&KeyName=appx-pdf-keyset&Signature=ygsp8EuwVE-nWhDEPGsg7hcuIDeTJQH18uLrwQMKzfiDMbIkYfL_gITw4V8kwRItBp_oZfAlj7Too_2PMb70DQ",
+      "features": [],
+      "teacherName": null,
+      "teacherImage": null,
+      "isPurchased": false,
+      "includedCourses": [
+        {
+          "id": "2",
+          "slug": "live-full-stack-open-source-cohort-1-finished",
+          "title": "Full Stack Open Source Cohort 1 | (Completed)",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/96d2e5b5d59bcc53888f56d281b5854417588b14642d4601b2e122850ca54a12.jpg",
+          "logo": null,
+          "price": 2999,
+          "mrp": 4999,
+          "currency": "INR",
+          "examName": "Old Programs",
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 175,
+          "pdfCount": 0,
+          "testCount": 0
+        },
+        {
+          "id": "dsa-bootcamp",
+          "slug": "dsa-bootcamp",
+          "title": "DSA Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/9cab422f5e2f5f51cf724f867c6c1848507d57a64c7ad007ec77b477cae54fa8.png",
+          "logo": null,
+          "price": 0,
+          "mrp": 0,
+          "currency": "INR",
+          "examName": "DSA Bootcamp",
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 42,
+          "pdfCount": 0,
+          "testCount": 0
+        }
+      ],
+      "visibleCoupon": null
+    }
+  },
+  "searchHits": 90,
+  "rootItems": 27,
+  "uniqueItems": 115,
+  "items": [
+    {
+      "id": "preview_2hijlWD8Yc7NNtMKG0EgaFHTK2DPhP_k",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA | Trial Class | Introduction | 02/04/24",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 7332,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_iGllyl2t_QeS3Sua-OjhvWjPyFKR_AXp",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 2 | Array | 05/04 (Zoom Recording)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8188,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Jiq8cYL4JUmz3P10DGDEOOwfv3JIV56Y",
+      "courseId": "2",
+      "parentId": "f_1d99e56d-83e7-4f16-987b-423e271fe726",
+      "title": "Week 19.1 | Real time communication, Distributed computing (Zoom upload) (22 oct 2023)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8599,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tgFiVTVjFI0ZIzFIliT3jwYZThVpZSA0",
+      "courseId": "2",
+      "parentId": "f_78e6359b-cba7-4cde-abfb-b02e59c6dcca",
+      "title": "Week 20.1 | Autoscaling backends |. Open source part 5",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 7776,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_iN2n8DajfzF3A9t43tlLbq7njDne3m7X",
+      "courseId": "2",
+      "parentId": "f_c776b31d-42e6-4edf-8f9e-36bbb5756fa2",
+      "title": "Week 21.1 | Ad hoc open source contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 7085,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_KR0cwos8g2SnoILrAvX9xPLq_l99i6gc",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 3 | Complexity Analysis | 10/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 7787,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_IxgEk0HUN1DirLmkiHvjhooFp2bAdtrv",
+      "courseId": "2",
+      "parentId": "f_78e6359b-cba7-4cde-abfb-b02e59c6dcca",
+      "title": "Week 20.2 | Open source contribution 6 | Serverless and EB",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 6680,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_l4pVWLwK7dCJPnIfqGBVL7qCoHMOVQQo",
+      "courseId": "2",
+      "parentId": "f_1d99e56d-83e7-4f16-987b-423e271fe726",
+      "title": "Week 19.2 - Redis + Distributed computing Part 1 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 3968,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_8NC-_MXeAMnqYqlYhoZ-baS72vVd8jKW",
+      "courseId": "2",
+      "parentId": "208",
+      "title": "Week 1.1 \u2013 10/06/23 - Recapping Prequisites, Basics of Javascript (Edited version)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 5590,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_E1ArbE3QTNh0IuF770Uc7G2VLZDyi0RE",
+      "courseId": "2",
+      "parentId": "208",
+      "title": "Week 1.1 \u2013 10/06/23 | Recapping Pre requisites, Basics of JS",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 5589,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_otmhEk1DDQaKfrsJmYvCm4Hhhblj41fq",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 4 | Arrays - Continued",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 7757,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_D_yprBnsW-xTO4LF7_sOvchhFSJbwxDY",
+      "courseId": "2",
+      "parentId": "f_1d99e56d-83e7-4f16-987b-423e271fe726",
+      "title": "Week 19.2 | Part 2 (offline) - Scalable chat systems",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 4276,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_uv1EX8cL5nJLXSB17cEXE4Usel4Fjwpg",
+      "courseId": "2",
+      "parentId": "208",
+      "title": "Week 1.1 \u2013 10/06/23 - Recapping Pre requisites, Basics of JS, Some async JS",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 5589,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2ti55eYXiMvNR603-Lz-GFy2ATgjWT-P",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 5 | C++ (part 1/2)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 7399,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_CtXK4-XbFrPAO6QQmUeu3ciAz1JqQJsh",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 6 | C++ (part 2/2) | 18/04",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 7334,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_NriRdCxICdMPunsJFybQdFnnjzB3cd7J",
+      "courseId": "2",
+      "parentId": "208",
+      "title": "Week 1.1 \u2013 10/06/23 - Recapping Prequisites, Basics of Javascript (Original)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 6816,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_yNbXWMRBaDa6gWaPujRB38KcFp8BL-_C",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 7 | Recursion - 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 7288,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_UYDQuyZ0BpaWjS7JwKSQGxDTk4Y1FPVR",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 8 | Recursion - 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 7456,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_zy8wiZKY9Ak5IbV3wDFSvn-X1pLX7pqd",
+      "courseId": "2",
+      "parentId": "208",
+      "title": "Week 1.3 | Async, await, callbacks, promises \u2013 11/06/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 7634,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_gNl_HVWNkk-8on40OtVSS9jNcxqVe13M",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 9 | Binary Search ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 8749,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JS_RnhvcO82OqGQj5Yn8XgsPybH2znTi",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 10 | Binary Search - 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 7911,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_QsFhwJGjF33ea9SrtQaSbaiJkWLqR8Sc",
+      "courseId": "2",
+      "parentId": "208",
+      "title": "How to solve an assignment?",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 242,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_FfjZx-sGOmz-GNZWx_jLJkveehyAAzpR",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 11 | Linked List",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 8129,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_K5LNO-O-YWCJTNgM9L5OEt6hsO0_drtw",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 0 | by Riddhi | 10/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 7145,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_gBvrB4S5yQvc6SAvU7vcHoleSvVp5yDf",
+      "courseId": "2",
+      "parentId": "208",
+      "title": "Week 1.4 | Extra class - Git and Assignments",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 5468,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_C1VnnZ8Nfhj2F43FGZiz_FIeCu3LekVT",
+      "courseId": "2",
+      "parentId": "208",
+      "title": "Wee 1.4 | Extra class on Git/Github/Assignments",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 5468,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_v_MoRC7tew_r7iFqJ_D6K5VXi0HZq1D8",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA (1) | Problem solving on Recursion (1/2) | 13/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 789,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_xcXUMakCLl_-kfJsvTByM8qAD0tgvwTF",
+      "courseId": "2",
+      "parentId": "208",
+      "title": "Assignment 1 - Solution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 5173,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7OYo-p4cTP3wr7iKoF1c1uasXaWRAZYI",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA (1) | Problem solving on Recursion (2/2) | 13/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 6564,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_59TUzl-1qeHdMFHNBdJXDW4kqdNoC6nG",
+      "courseId": "2",
+      "parentId": "221",
+      "title": "Week 2.1 | Express, Node.js, Intro to backend systems \u2013 17/06/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 7767,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_j0Fb_qjKxMlf5zYGIXbriw__VD9RC7VR",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA (1) | Problem solving on Recursion (2/2) | 13/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 6564,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_xViwpoPTZWc3-5Z4d3EoZ4t6PkwWecEW",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 2 | Basics of java | 16/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 7116,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_OzG-oCqnw1725Or3n5HmSG6C1aVj4wCL",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 3 | Problem Solving on Arrays | 20/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 7450,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_h2C7Ma_UmPM7xylQZH0fYvtDOKOck-WV",
+      "courseId": "2",
+      "parentId": "221",
+      "title": "Week 2.2 | Middlewares, request and responses \u2013 18/06/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 7878,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HPNG0HAO2em0TK7O0cwE2d9boPde6B0e",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 4 | Basics of DSA | 22/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 6516,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_P6oOI7UkmRFc5jnOpoA5J05J5C1NhFBe",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 5 | Strings and ArrayList | 27/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 7791,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ZY2H0Eekzc_fTC_uWPew01RhH6ivbxZ7",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 6 | Strings and ArrayList (Part-2) | 29/05",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 7627,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_B43tcpomKAItO3WXxSEc1wd3l8c-GcCE",
+      "courseId": "2",
+      "parentId": "227",
+      "title": "Week 3.1 | Finishing backend, starting frontend \u2013 24/06/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 7457,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_d6YqcWycR2HZ7FeuvInWctnE4lQgRJX0",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 7 | Hashing and HashMaps | 03/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 20,
+      "durationSecs": 7143,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_8hQYYfXr-ZAH62hCwtP5XctI_uiq_nCE",
+      "courseId": "2",
+      "parentId": "227",
+      "title": "Week 3.2 | Foundation of frontend | Reconcilation \u2013 25/06/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 20,
+      "durationSecs": 6767,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_heapuH_gTAopIVSuN6VT7KFbpcwlHfpd",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 8 | Hashing and HashMaps (Part - 2) | 05/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 21,
+      "durationSecs": 7121,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_W8k0_W1HeUrZSpv67KYyGA8N_B29H7hl",
+      "courseId": "2",
+      "parentId": "227",
+      "title": "Week 3.3 | Extra class | System design of a video transcoder - 27/06/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 21,
+      "durationSecs": 4485,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_6F9DPTaxegUUcm8g_ZZrl84aGut9M4d8",
+      "courseId": "2",
+      "parentId": "227",
+      "title": "Week 3.4 | Authentication and Assignment - 30/06/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 4876,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_KiHAx5xCs6CABc-dVKspOP540AY26IT_",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 9 | Hashing and HashMaps (Problem solving) | 10/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 8002,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_YaanPvbZj9kakVOkVTE55lIdOYsS_dCd",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 10 | Two Pointers | 12/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 23,
+      "durationSecs": 7062,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_qQ26-R-xVs1V14g1w7HKoARmb8IwBRQe",
+      "courseId": "2",
+      "parentId": "227",
+      "title": "Week 3.5 | MongoDB and intro do Databases - 30/06/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 23,
+      "durationSecs": 3203,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_nOsmroTytNOBb8tze2sGPEPcP0INj4Ri",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 11 | Two Pointers (Part - 2) | 17/06",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 24,
+      "durationSecs": 7123,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_D8hMlSg20Ib-v_UGqStCByODrAAlPlyv",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA (12) | Bit Manipulation",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 25,
+      "durationSecs": 6346,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JWnSRldaxtuKcayolipcMzmqZEtgKxzr",
+      "courseId": "2",
+      "parentId": "234",
+      "title": "Week 4.1 | More reconcilers, Intro to react using Vite - 01/07/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 25,
+      "durationSecs": 7459,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_XHEiK8minpLdafFnZOoihDYx5Ca3XPQH",
+      "courseId": "2",
+      "parentId": "234",
+      "title": "Week 4.2 | React, effects and custom hooks - 02/07/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 26,
+      "durationSecs": 7241,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_xJX0zh3EJCQG-usrhA8PDSsJPh17Tx08",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 13 | Problems on Bit Manipulation |",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 26,
+      "durationSecs": 7016,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_vfpvt94WTYF3EIhZKB1oiAkA_DkqKZ7R",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 14 | Recursion and Backtracking ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 27,
+      "durationSecs": 7335,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_SjGOm9BxXGIkTw737HEXjVe70KT-8iNj",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 15 | Back Tracking - 2 | 08/07",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 28,
+      "durationSecs": 6823,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_n5wX_QmuG7_W3WXkISp3JUzV8hyQ6Otm",
+      "courseId": "2",
+      "parentId": "235",
+      "title": "Week 5.1 | Create a todo app, mui, flexbox and basic state management - 08/07/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 28,
+      "durationSecs": 7440,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__63sZVnwBRsS52IgHFlF8NrCJU4v1zka",
+      "courseId": "2",
+      "parentId": "235",
+      "title": "Week 5.2 | Recapping a few things\u00a0-\u00a009/07/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 29,
+      "durationSecs": 7603,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sLSKOj_-r2VFgT2CIfh_RL-GiO9gF-S1",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": " DSA 16 | Sorting-1 Problems (Merge) ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 29,
+      "durationSecs": 7377,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_pX71avk5lNXBKtWvWepN4gSHaoV8OLuj",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 17 | Linked List Problems",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 30,
+      "durationSecs": 6531,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_qxVu1MS0xQTqplsZZ8OS4B3YNNW1LgP6",
+      "courseId": "2",
+      "parentId": "235",
+      "title": "Week 5.3 | Extra class on axios, object destructuring, grids, and complete assignment - 13/07/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 30,
+      "durationSecs": 3351,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_r64ZP-v3JDe81tWrfl-RRymu_8kljwVR",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": " DSA 18 | Sorting-III Cyclic Sort & Problems",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 31,
+      "durationSecs": 7727,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rpsthHy7-SfmeZLwjKOAd7vbR9AFRbkl",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": " DSA 19 | Stacks and Queues",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 32,
+      "durationSecs": 6369,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_isfheGPOatBYd7gzP27OewKAYfvlQO7C",
+      "courseId": "2",
+      "parentId": "235",
+      "title": "Week 5.4 | Context, Recoil and prop drilling - 13/07/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 32,
+      "durationSecs": 1568,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_QLlFnhIGvMVsSBydIBRRDBkoNHbLw8jP",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 20 | Stacks",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 33,
+      "durationSecs": 6830,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_BUjEiqm-otxw_bpWjgnbd6sW1h6uqko4",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 21 | Stacks -2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 34,
+      "durationSecs": 6682,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_YOdTWZWXvHN4iZB7FBxj0Huyh6o-19Kf",
+      "courseId": "2",
+      "parentId": "236",
+      "title": "Week 6.1 | Extra class on building a GMeet clone (Bad audio) - 16/07/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 34,
+      "durationSecs": 7852,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_YqKPXrvPZ1hwOR1fmQ9SoZtqpAsN-ySA",
+      "courseId": "2",
+      "parentId": "236",
+      "title": "Week 6.2 | Extra class on GMEET | Better audio, worse video - 16/07/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 35,
+      "durationSecs": 8266,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_-0kosprQ-73CBLpZFN5Zu9FRDui35jMb",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 21 | Stacks -2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 35,
+      "durationSecs": 6682,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_NKXJgDnGV2s7eDJF1hXv21Aubfzv3UOY",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 22 | Heaps & Priority Queues - 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 36,
+      "durationSecs": 5959,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_yfvWdPqEK4-7lleROXVA7I1gLatprm-V",
+      "courseId": "2",
+      "parentId": "237",
+      "title": "Week 7.1 | Recoil and State management (Selectors, atoms) - 22/07/23",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 36,
+      "durationSecs": 7479,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hn7DF73Z-E8gZywiuHQVtAJfLQ3taaWD",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": " DSA 23 | Heaps & Priority Queues-2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 37,
+      "durationSecs": 6734,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_uY9saaeInWfpM-hJ9gxxEQW3AJvnwwh5",
+      "courseId": "2",
+      "parentId": "237",
+      "title": "Week 7.3 (26 July, 2023) - Assignment on Typescript",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 38,
+      "durationSecs": 5223,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_4muZ9HqmBFQazNdO_JwM6Ct9u3L58FOH",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 24 | Priority Queues - 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 38,
+      "durationSecs": 5527,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_WRIelt3_bK92tICfZCOfMGX5ChmkG73Q",
+      "courseId": "2",
+      "parentId": "2206",
+      "title": "DSA 25 | Trees - 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 39,
+      "durationSecs": 6091,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Ai7PMiIWrID274ii_1kQfeUsXK5yf81V",
+      "courseId": "2",
+      "parentId": "238",
+      "title": "Week 8.1 | Custom hooks, Generics and zod (29-7-2023)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 40,
+      "durationSecs": 7641,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_wKFC0k4moea7aRa9SAmbuVn4-jwhiYJa",
+      "courseId": "2",
+      "parentId": "238",
+      "title": "Week 8.2 | Deploying npm packages, intro to mono repos",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 41,
+      "durationSecs": 7414,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_UsPSF9MtwTtnfOH5jshs8dwGkroOAWZg",
+      "courseId": "2",
+      "parentId": "240",
+      "title": "Week 10.1 | Frontend deployments , certificate management",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 45,
+      "durationSecs": 7520,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_TqxgPxsecBZ-aYNullEYBzia6hQsUhdn",
+      "courseId": "2",
+      "parentId": "273",
+      "title": "Week 11.3 - Authentication using next-auth (23rd August)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 55,
+      "durationSecs": 5325,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_I7pOsPhfDnAo-WtzAu3_AKXtcTHCQGeb",
+      "courseId": "2",
+      "parentId": "242",
+      "title": "Week 12.1 | OpenAPI Spec (26 August 2023)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 56,
+      "durationSecs": 8167,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_KXDh3JEfgXqlLMPxOmQCEfE7mgzzZtAS",
+      "courseId": "2",
+      "parentId": "242",
+      "title": "Week 12.2 | Tailwind, flex, grids , react recap (27th Aug)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 57,
+      "durationSecs": 6792,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_URxL57jZo3pvAPWEtdi8gsE8yFiFv4Ge",
+      "courseId": "2",
+      "parentId": "286",
+      "title": "Week 13.2 | Prisma ORM",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 60,
+      "durationSecs": 6667,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_bTsT5Yoh7skZeSzQWcYii_mwXy8xBG_z",
+      "courseId": "2",
+      "parentId": "286",
+      "title": "Week 13.2 | Prisma (Zoom upload)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 61,
+      "durationSecs": 7466,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_euzIp7zQUrd_OOXnqU0C-EEaxQOszrA5",
+      "courseId": "2",
+      "parentId": "286",
+      "title": "Week 13.3 | Teachers day class",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 62,
+      "durationSecs": 3483,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_KwA-cObRLdEWmPvwODz0XDsaD1OdzBti",
+      "courseId": "2",
+      "parentId": "244",
+      "title": "Week 14.2 | TRpc Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 65,
+      "durationSecs": 8341,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_F3n4TMM0XNzBLZmg3A8FQW0XeNd3ZBlS",
+      "courseId": "2",
+      "parentId": "245",
+      "title": "Week 15.1 | Docker (16/09/23) (Zoom upload)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 67,
+      "durationSecs": 7700,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_SGTVwW9dRHXhCWoThv6SdftsfwY6YCsD",
+      "courseId": "2",
+      "parentId": "245",
+      "title": "week 15.2 | Docker part 2 (17/09/23) (Zoom Upload)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 69,
+      "durationSecs": 8511,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JVVF76W87U0LjzbJuixhoRqPovj1MQvw",
+      "courseId": "2",
+      "parentId": "298",
+      "title": "Week 16.1 | GraphQL",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 70,
+      "durationSecs": 7852,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HYR7O2kCwD2T3eE1Gm8fdwoPKgw06iwj",
+      "courseId": "2",
+      "parentId": "298",
+      "title": "Week 16.2 | graphql and setting up project locally",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 71,
+      "durationSecs": 7827,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_sS5HzqEi_D49h5n4OlESO4gf3w97vgcb",
+      "courseId": "2",
+      "parentId": "299",
+      "title": "Week 17.1 | Freelancing Masterclass",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 72,
+      "durationSecs": 8517,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_DEBIpW-nCJgnSDrnw2zA4HWVUEJL9cFP",
+      "courseId": "2",
+      "parentId": "299",
+      "title": "Week 17.2 | Freelancing Masterclass part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 73,
+      "durationSecs": 8504,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_yScaLs_H0qKN4qJzVllaFP_cmgKQ6DS_",
+      "courseId": "2",
+      "parentId": null,
+      "title": "5 years after IIT Watch party!",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 106,
+      "durationSecs": 1858,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search",
+        "root"
+      ]
+    },
+    {
+      "id": "preview_IrSb_lQrI58L6WVki1CKmq2nbL0z9Q4E",
+      "courseId": "2",
+      "parentId": null,
+      "title": "farewell!",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 107,
+      "durationSecs": 7660,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search",
+        "root"
+      ]
+    },
+    {
+      "id": "2206",
+      "courseId": "2",
+      "parentId": null,
+      "title": "DSA",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "preview_Xk6qkmVYFfdjf6oybTHewuHza1w-4hVM",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Neovim Setup",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 4189,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "205",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 0",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 84,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "208",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 1",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 85,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "221",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 2",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 86,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "227",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 3",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 87,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "234",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 4",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 88,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "235",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 5",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 89,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "236",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 6",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 90,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "237",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 7",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 91,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "238",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 8",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 92,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "239",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 9",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 93,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "240",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 10",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 94,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "273",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 11",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 95,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "242",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 12",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 96,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "286",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 13",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 97,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "244",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 14",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 98,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "245",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 15",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 99,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "298",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 16",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 100,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "299",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 17",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 101,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "f_038e1572-5eb6-462b-831a-ced88f12c49c",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 18",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 102,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "f_1d99e56d-83e7-4f16-987b-423e271fe726",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 19",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 103,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "f_78e6359b-cba7-4cde-abfb-b02e59c6dcca",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 20",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 104,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "f_c776b31d-42e6-4edf-8f9e-36bbb5756fa2",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Week 21",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 105,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "preview_cyr84KhHDfi4kmS0DVQ4lXiK_lkOFaLh",
+      "courseId": "2",
+      "parentId": null,
+      "title": "Certificate of Completion",
+      "description": null,
+      "materialType": "LINK",
+      "thumbnail": null,
+      "sorting": 108,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    }
+  ]
+}

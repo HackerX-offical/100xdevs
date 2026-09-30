@@ -1,0 +1,3747 @@
+{
+  "listing": {
+    "id": "24",
+    "slug": "100xschool-combined-bootcamp",
+    "title": "100xSchool Combined Bootcamp",
+    "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/c397a1e66d5515d3a39251fd2de7fce274a37e55b437916d93185129400aee5d.jpeg",
+    "logo": null,
+    "price": 5999,
+    "mrp": 8999,
+    "currency": "INR",
+    "examName": null,
+    "examCategory": null,
+    "isCombo": true,
+    "validity": "36 months",
+    "validityMonths": 36,
+    "enabled": true,
+    "categoryId": null,
+    "videoCount": 0,
+    "pdfCount": 0,
+    "testCount": 0
+  },
+  "meta": {
+    "data": {
+      "id": "24",
+      "slug": "100xschool-combined-bootcamp",
+      "title": "100xSchool Combined Bootcamp",
+      "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/c397a1e66d5515d3a39251fd2de7fce274a37e55b437916d93185129400aee5d.jpeg",
+      "logo": null,
+      "price": 5999,
+      "mrp": 8999,
+      "currency": "INR",
+      "examName": null,
+      "examCategory": null,
+      "isCombo": true,
+      "validity": "36 months",
+      "validityMonths": 36,
+      "enabled": true,
+      "categoryId": null,
+      "videoCount": 237,
+      "pdfCount": 0,
+      "testCount": 0,
+      "description": "<p><span style=\"font-size:24px\"><strong>Web dev (Every Friday)</strong></span></p>\n<p><span style=\"font-size:24px\"><strong><img src=\"https://appx-content-v2.classx.co.in/paperimages/1766314944_1766314943997392_thump.png\" style=\"height:353px; width:800px\" /></strong></span><br />\r\n&nbsp;</p>\n<p><strong><span style=\"font-size:22px\">Devops (Every Friday)</span></strong></p>\n<p><img src=\"https://appx-content-v2.classx.co.in/paperimages/1766314908_1766314908362101_thump.png\" style=\"height:330px; width:700px\" /><br />\r\n&nbsp;</p>\n<p><strong><span style=\"font-size:22px\">Machine Learning and AI (Every Saturday)</span></strong></p>\n<p><img src=\"https://appx-content-v2.classx.co.in/paperimages/1766315451_1766315451707382_thump.png\" style=\"height:352px; width:700px\" /></p>\n<p><strong><span style=\"font-size:22px\">Web3 (Every Sunday)</span></strong></p>\n<p><img src=\"https://appx-content-v2.classx.co.in/paperimages/1766315471_1766315471529148_thump.png\" style=\"height:324px; width:700px\" /></p>\n<p><span style=\"font-size:22px\"><strong>DSA (Every Thursday)</strong></span></p>\n<p><img src=\"https://appx-content-v2.classx.co.in/paperimages/1766315505_1766315505129380_thump.jpeg\" style=\"height:817px; width:1600px\" /></p>",
+      "demoVideo": null,
+      "features": [],
+      "teacherName": null,
+      "teacherImage": null,
+      "isPurchased": false,
+      "includedCourses": [
+        {
+          "id": "21",
+          "slug": "web-dev-devops-bootcamp",
+          "title": "Web Dev + Devops Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/0300f4500999a2abdc9225a12f3ef1b128065aff43b7b5d1acf65904fe3a60d8.jpg",
+          "logo": null,
+          "price": 3999,
+          "mrp": 5999,
+          "currency": "INR",
+          "examName": null,
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 0,
+          "pdfCount": 0,
+          "testCount": 0
+        },
+        {
+          "id": "23",
+          "slug": "ai-and-ml-bootcamp",
+          "title": "AI and ML Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/3d84a16fbf66d6935aafc12af7ea76c397964339a03eca9800782d0662a5e654.jpeg",
+          "logo": null,
+          "price": 3999,
+          "mrp": 5999,
+          "currency": "INR",
+          "examName": null,
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 0,
+          "pdfCount": 0,
+          "testCount": 0
+        },
+        {
+          "id": "22",
+          "slug": "web3-bootcamp",
+          "title": "Web3 Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/a6f6fa88a5f5b09290dd9fb78fa856e6c67957afd7c565c98225644f2506ee60.jpg",
+          "logo": null,
+          "price": 3999,
+          "mrp": 5999,
+          "currency": "INR",
+          "examName": null,
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 0,
+          "pdfCount": 0,
+          "testCount": 0
+        },
+        {
+          "id": "dsa-bootcamp",
+          "slug": "dsa-bootcamp",
+          "title": "DSA Bootcamp",
+          "thumbnail": "https://assets-cms.b-cdn.net/course-thumbnails/9cab422f5e2f5f51cf724f867c6c1848507d57a64c7ad007ec77b477cae54fa8.png",
+          "logo": null,
+          "price": 0,
+          "mrp": 0,
+          "currency": "INR",
+          "examName": "DSA Bootcamp",
+          "examCategory": null,
+          "isCombo": false,
+          "validity": "36 months",
+          "validityMonths": 36,
+          "enabled": true,
+          "categoryId": null,
+          "videoCount": 42,
+          "pdfCount": 0,
+          "testCount": 0
+        }
+      ],
+      "visibleCoupon": null
+    }
+  },
+  "searchHits": 198,
+  "rootItems": 13,
+  "uniqueItems": 209,
+  "items": [
+    {
+      "id": "preview_1bz3SBjXJB2B8QT_d25_sEXtrFr3ueHo",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 0 - Web Development | Meet your instructor | AMA | Doubt session - Harkirat Singh | 10/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 6497,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_v80XDkJFj_cCHDDRWCqspAHCCT3Yiw2C",
+      "courseId": "24",
+      "parentId": "5006",
+      "title": "Mumbai meetup (Enhanced audio)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3991,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_8EqFMOzolPG4IC5RKmtQbUB3GOIznHhn",
+      "courseId": "24",
+      "parentId": "5008",
+      "title": "React Interview Questions",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4352,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_N6zHji-ptTC1W2gzi2OId2mdb7CA1Y9N",
+      "courseId": "24",
+      "parentId": "6453",
+      "title": "Week 1 - Orientation | 19/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4235,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_6ltzgZmnn7o78c4wXJqSqtqHz84cFn5V",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 0 - DSA Orientation ( Recap of live class ) | 09/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 652,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_j3zHGd5isDw-TN79PxMqPnW4Owh3q3YG",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 0 - AI and ML | Orientation | 09/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3935,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HXyumDA_IGPfxRgJGCO1evYITygXOFqd",
+      "courseId": "24",
+      "parentId": null,
+      "title": "How to join Discord and verify yourself",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 83,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search",
+        "root"
+      ]
+    },
+    {
+      "id": "preview_nsT_Mi2575fL_Nmm2nnZt6n3SYnnmnY5",
+      "courseId": "24",
+      "parentId": "3868",
+      "title": "HTML Basics (Tags and Attributes) - Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 2027,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_iDamPXtLUIMiXSpCiIqB5K5T4bW1aLiT",
+      "courseId": "24",
+      "parentId": "3868",
+      "title": "CSS Basics - Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3581,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rIeXditMvfwEpqqy-SIc2ZxHKxJIp8Td",
+      "courseId": "24",
+      "parentId": "5013",
+      "title": "Ad-hoc GSOC contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 7085,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_FyGwm9r7cQRDZ3wzqFIPKLFX3iZHpaV7",
+      "courseId": "24",
+      "parentId": "4110",
+      "title": "Rishi\u2019s Frontend Session | Extra Class ( Optional ) | 20/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 3973,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_yNkSmJjG-s3PgLB9I12tZ32uwcYgK57f",
+      "courseId": "24",
+      "parentId": "5006",
+      "title": "Mumbai meetup",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 0,
+      "durationSecs": 4046,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_xGhwpRBnQMD3qgb_mAvs2HiS-Wxs_Gfh",
+      "courseId": "24",
+      "parentId": "3869",
+      "title": "Week 1.2 | JS Foundations",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8531,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_-qrrE29hnNyUR73qCXA-lCt4A-Dap7mA",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 1 - AI and ML | Fast-tracking the course of AI | 18/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8361,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_p68Put1mnNsBOhtzx9eXkJK72ckAKp2z",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 1 - DSA | Introduction to C++ | 15/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8822,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_vkQr0dgBxWVuN0zmxfRyzmxShDQYfEGS",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 5182,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_CWllaLwbNCV0p6u4uEzK2zOsXqDfxSWA",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 1 - Web Development | HTML and CSS | 16/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 8414,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tWV9dlQYVoOw2ed5yGRBp_AkHwWnk45s",
+      "courseId": "24",
+      "parentId": "6453",
+      "title": "Week 2 - Rust: Part 2 | 26/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 4622,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_zSiHPYpFl9A136x1A2flbiw8ihnudtUk",
+      "courseId": "24",
+      "parentId": "f_435074f7-34e3-4fda-9370-dc74e6f74316",
+      "title": "Week 24.1 - Web Development | Queues, Pub Sub, and Async Backend Communication | 26/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": 5111,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7Lmygsd3WOGNnMI2VqQwLkSDPGiwXnjh",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 2 - Web Development | JavaScript Basics | 23/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 6204,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_RvTQyL7nOwXyE9D2_MP1X900_RyNqJ-D",
+      "courseId": "24",
+      "parentId": "5013",
+      "title": "2. Processing (p5.js) setup and issue solving",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 3172,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ZEBcUhdYHZ-aOthThOODhbfBXlh3Ock7",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 2 - DSA | Loops and Pattern Printing | 22/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 9476,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_D54IwR-PNgEIuFTPpayOCAoshwrxTh4E",
+      "courseId": "24",
+      "parentId": "6453",
+      "title": "Multithreading and Async in Rust | Super 30 Class [ Offline Video ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 5116,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7QzKeZih405kgvvVEF2-wOyUgHWLUukH",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 2 - AI and ML | Neural Networks from Scratch | 24/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 8336,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_RdQg6oR2le9QHgdUxarJrvkT2DF8WUmu",
+      "courseId": "24",
+      "parentId": "f_435074f7-34e3-4fda-9370-dc74e6f74316",
+      "title": "Week 24.2 - Web Development | LeetCode - Part 2 | 28/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": 5169,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_EZPo-n33Fjwju3TvO8h25ym0Nx6e42Rn",
+      "courseId": "24",
+      "parentId": "5013",
+      "title": "3. Processing (p5.js) setup and issue solving (By Ex GSoC student)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 4590,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tUGZ8NoFegBm3hZQYM7kbvHDn0fHpUd4",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 2.1 - DSA | Pattern Printing Solutions ( Offline Video ) | 25/01/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 4309,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ya7TMv3WU1wieoOblnADvPr4lAvmD_Ob",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 0 - Web3 | Meet your instructor | AMA | Doubt session - Harkirat Singh | 10/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 6497,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HZjesY78vLSnoqRnsY2yLuJud_91Pr-5",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 2104,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_71VlxfWJvpJ1yTfNAi3YOu0RhV-qmlP5",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 3 - AI and ML | Transformers- Part 1 | 31/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 8791,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_URKrtN9YF8kZPISxXB9qU6XQfNlyLtQl",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 3 - Web Development | Promises, Callbacks, CPU vs IO Tasks | 30/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": 6649,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_3ATz4GEVuOLFBE48mclMNDLWkj17yWwc",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 1 - Web3 | Introduction to Blockchains | 18/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 11331,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JrjWPYLk2ELvkSYfvOPwKZ3ZLPf7VpQU",
+      "courseId": "24",
+      "parentId": "5001",
+      "title": "Real time communication, Distributed computing",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 8599,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_U3vRDh2mjDcllA5NeBMG4LMkQrIpMGrD",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 3 - DSA | Functions | 29/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 10045,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_dyn0vTBej8MMTD0DGZD7f20vv1kj2b9k",
+      "courseId": "24",
+      "parentId": "6453",
+      "title": "Week 3 - Centralized Exchanges | 02/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 2727,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_lYVcb0-2ErLm50rqZCwX3dSozCH4OVmm",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 3.1 - Web Development | Map, Filter and Arrow functions ( Offline Video - Cohort 2 )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 1153,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_M3r9Byie8ZkEYx5JcwSiw68fX34S0Sz5",
+      "courseId": "24",
+      "parentId": "3869",
+      "title": "Week 1.3 | Offline class | Basic JS APIs",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": 4035,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_DGoPEYmuZVKJBzgfUOjt49pT01XFDCck",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 3263,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_il9SHpPDxXtKpsTHioWsqPhQJWiGth7t",
+      "courseId": "24",
+      "parentId": "3882",
+      "title": "Cohort 3 Orientation (Part 1)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 4443,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_fO6lPbAmcaVWgiiuvvdUucYNZIikLmRW",
+      "courseId": "24",
+      "parentId": "5013",
+      "title": "GSoC Backend Contribution",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 5856,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9GOfMf30twNPnJgOGVOScCTxePlNLq69",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 2 - Web3 | Wallets and Private Keys | 26/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 8880,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Mx4y2ng76zTuR24xEO2aH-mhDu5dGHBw",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 4 - AI&ML | Transformers: Part 2 | 07/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 7228,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_GmOYZno6urvgoev7UyYJFVXtzGVxgRwC",
+      "courseId": "24",
+      "parentId": "3869",
+      "title": "Week 1.4 | Loops, Functions, Callback functions",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 2128,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_CE-v5k8ttHYlAI21jv2huDTwiXa-gf6a",
+      "courseId": "24",
+      "parentId": "4301",
+      "title": "Superdev Lecture 6 | 04-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 5910,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9YT_xMHFYXQpAgWCawiG2fTn3iF5O-tw",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 4 - DSA | Arrays | 05/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 9065,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Y0F7pWEdOEO1vQ08Kvn6OLhuF6DMuS7_",
+      "courseId": "24",
+      "parentId": null,
+      "title": "Orientation Class and Warming Up | 04/01/2025",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 4262,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search",
+        "root"
+      ]
+    },
+    {
+      "id": "preview_pbZjFEJ3-YDlJ3kn-AZPh8fD2SL5Wq8m",
+      "courseId": "24",
+      "parentId": "6453",
+      "title": "Week 4 - Prediction Markets | 09/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 5,
+      "durationSecs": 3122,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_LJPXV33JpcUDuUS-bhzSBXwu688knjld",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 4",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 2801,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_vGPH2nup4GXw93bNNgnq_Fmv2qiqn7ew",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 5 - Web Development | Writing promises and async await | 13/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 7117,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__Ay70fivm21C0HEl9zJslW6uRH__Md52",
+      "courseId": "24",
+      "parentId": "6453",
+      "title": "Week 6 - Validator Internals by Rishav Mehra | 07/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 4573,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Q7QQBgkX1-h8iIue-REEiQ0kmoV3nLT5",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 3 - Web3 | Diving Deeper into Solana Jargon | 03/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 7957,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_5lfm-Bm20Ea60AYbnIyR651MS2jtnJ73",
+      "courseId": "24",
+      "parentId": "4301",
+      "title": "Superdev Lecture 7 | 06-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 5848,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Q7T-dSc8dGtsLyTYznCEO1YZbPz21GAp",
+      "courseId": "24",
+      "parentId": "3882",
+      "title": "Cohort 3 Orientation (Part 2)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 5241,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_zlsAzrI5t6gjEi9P2TnmAuWUHlNpTjPO",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 5 - AI&ML | Introduction to Tensors and PyTorch | 14/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 7643,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Cb_fcIpTfQOxQqFWsxZVbvpwibEEv5zn",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 5 - DSA | Strings / 2D Arrays | 12/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": 10464,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_KgoqrhNeUxjD6Q_N4ixNNOjG9jB0Bn0s",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 6 - AI&ML | What Changed Since 2017 \u2014 and Let's Build It | 21/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 7299,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_g4OxOhxt_7XhstIIOa8pn7lr46thuU2p",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": " Week 6 - DSA | Sorting & Searching Basics | 19/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 8133,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_jR7EBeCmiQjoPrME5ngnQqdeQC3Qo0gk",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 6 - Web Development | Starting Frontend ( DOM Basics ) | 20/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 6123,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_O3PdpCsLW92Pw621nCMbRhbFuUPOszO7",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 4 - Web3 | Token Program | 08/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 8494,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_k-WwGEYRs_IQD4LbIBiBeR3zIqIdNZ4o",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 5",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 1726,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_p7RjEHPvXxFQEzXMfS8cgqmxABORNIv-",
+      "courseId": "24",
+      "parentId": "4301",
+      "title": "Superdev Lecture 8 | 12-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": 5227,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_iAipEB9L9E0EmZAlURc8S9EDeYgD4lDe",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 6",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 1406,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ry741k2_PcGfQ9AFIaY2pAmOrz6_Eif2",
+      "courseId": "24",
+      "parentId": "4301",
+      "title": "Superdev Lecture 9 | 18-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 4702,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_jFk-X53kO2U46hkn6R6hlkgvYuV104le",
+      "courseId": "24",
+      "parentId": "3882",
+      "title": "Public Key Cryptography (Offline Video)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 7338,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_3dW3II7d8siKjiWRI6dWLgHYoXe5dDqL",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 5 - Web3 | System program, token program, authority and owner | 15/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 6193,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_-5dwgZBuZ5hsejI5FLuhjCVTfyOCOHFs",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 7 - DSA | Mixed Problem Solving Session | 26/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 7023,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_NRa8EObdeMtakF9S11tkVTgiCchEehkf",
+      "courseId": "24",
+      "parentId": "7138",
+      "title": "How Modern AI Agents Work Under the Hood ( Part 2 )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": 2854,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_FWIfdO7hGqYE8epwUUGxMSC48pefBMt2",
+      "courseId": "24",
+      "parentId": "3882",
+      "title": "Bitcoin Whitepaper",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 3407,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_XsgQnS16_dmCD3nzmp6xVD5d7jpRg1Yz",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "[Week 7 Offline] HTTP Part 1 (Payloads, Domains, IPs, Routes)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 5966,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2hX9g1znJYiX00FAPAhX-KtbrXqqfG57",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 6 - Web3 | Token program | 22/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 6119,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7pyNMhzzLpVjlVZ8P3ZVujBxy-6TKv7f",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 8 - DSA | Time and space complexity | 07/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 8045,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_xoWpd4EgElH0SHB3rmqrzx9U62_De8nV",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 7",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 4358,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_8g0Xw55bU7K2SGlAxTpC9cC308DmSiYj",
+      "courseId": "24",
+      "parentId": "6930",
+      "title": "Node.js, Bun and JS runtimes | [ Cohort 3 ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 8568,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_NDFt6f0PoThHPEpWaVaNC_vsLLp1DpCo",
+      "courseId": "24",
+      "parentId": "4301",
+      "title": "Superdev Lecture 10 | 20-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 6322,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_fJ71bzucltq0NgU5xWEoF49N6xJiXJym",
+      "courseId": "24",
+      "parentId": "5014",
+      "title": "TRpc Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": 8341,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9LVKbRzakiB9hsivRrnWrLJEK7rqwAda",
+      "courseId": "24",
+      "parentId": "6930",
+      "title": "Bash and Terminals | [ Cohort 3 ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 2074,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_SEAFoG9O-s_O-7PsGAn22E-EZ3_a9zJK",
+      "courseId": "24",
+      "parentId": "4301",
+      "title": "Superdev Lecture 11 | 28-Aug",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 4606,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PQI9g9KK6550O08wBwnh3CxqXnqiYWer",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 8",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 4936,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_VpFiIRNPRn5OVwGa4g5ajy1Go2Y_dM8P",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 8 - Web Development | HTTP Part 2 - Headers, Params and Express \u2014 Writing your first HTTP server | 06/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 6863,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_FOMGHHytYj7kq0T0-9k3KxNNIQepL5uS",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 9 - DSA | Array Techniques - Prefix Sums, Sliding Window, Contribution | 12/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 9080,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_wPmAV7utSfdIZBg270Fa1G8PXQfAypK1",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 7 - Web3 | Program Derived Addresses (PDAs) | 02/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": 6857,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_SLLBurgdvZ-DjCOnuxMe_P7y6I5t6IkA",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 10 - DSA | Sets and Maps | 19/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 5923,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_DZwNq_45eiZh7DuARB-6Cy14oIslTMXn",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 9",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 3726,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_c1pLv_HvcBFMAzumNoDCrgjyftzSrBWC",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Axios vs Fetch | [ Cohort 2 ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 1302,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_y-gAZ1xS7fn6LMeH65GIJ249xRssvFKX",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 8 - Web3 | PDA (Continuation) | 08/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": 6207,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_F-5UFTEJVuW7RsIv-dTbo29tKzV7-Qu_",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 9 - Web Development | Authentication and JWT | 14/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 7255,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_3U1dnZbaYAV5p-ODuja_mOMRkELGSh02",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 10.1 - DSA | Sets and Maps ( Offline Video ) | 21/03/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 3815,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tN9h60C12l9-Yjjunwbl-AQOwvyqTX61",
+      "courseId": "24",
+      "parentId": "7033",
+      "title": "LinkedIn Project | Part 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 5178,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_P-JL20jdh1HfEyJvRuXNLkHEm42ab0sb",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 7 - AI&ML | Training Your First Model | 28/02/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": 5667,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_7rLdZrxn1PedlkfjmD6UAMW2YIC7vI3y",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 8 - AI&ML | From APIs to Agents | 07/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 7028,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Fnrb4GQK6NI9onGjm1nV6B910xq0ib53",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 11 - DSA | Two Pointers / Sliding Window | 28/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 9299,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PLjw3EpryPK1k8HDrLsrerxXCf7i5yz2",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 10",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 4480,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ZNyHVwA1c-XRPuA7x_8jkvGB-gKOA6KR",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Authentication using cookies | Cohort 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 4664,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_avVAunn7v9PbwXNVge0rioAOnkzSizeP",
+      "courseId": "24",
+      "parentId": "7033",
+      "title": "LinkedIn Project | Part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 779,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rCbpo2ul7adHADIm6iCMCsdVPWLsdAfr",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 10 - Web3 | Wallet Adapter (Part 1) | 22/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 13,
+      "durationSecs": 3212,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PPRE0Jufh1-nrXJxdT0I-zvtV7ueQd2O",
+      "courseId": "24",
+      "parentId": "7033",
+      "title": "LinkedIn Project | Part 3",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 4389,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_UQOUP6MTNhZ50cg5JZCymbENmd_v-qPi",
+      "courseId": "24",
+      "parentId": "4902",
+      "title": "React Native Bootcamp | Day 11",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 3168,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_A8oWfMPNMcKC6vPQ5CHOB-C-Q_uXYZJD",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 9 - AI&ML | RAG from the Ground Up - Part 1 | 13/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 5963,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_uHfdfMPRPwjEafw9s3BgfXXmU6Vi1XaO",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 12 - DSA | Interview Problems | 02/01/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 8638,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_iYcg_PEFMKEKjZ_HrvxU8VSiVU2ol-56",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 10 - Web3 | Wallet Adapter (Part 2) | 22/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 14,
+      "durationSecs": 2005,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_UL9zPFN-uWg0R4QBxWUaVSypcVxOx_zC",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 13 - DSA | Binary Search | 09/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 4737,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_W4Tgb0kSXGzUq2qjGA1T-4C_Zudvz-VN",
+      "courseId": "24",
+      "parentId": "7033",
+      "title": "LinkedIn Project | Part 4",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 4342,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_gVuERQraW5v583W-eCzRjM1pFF9M0082",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 10 - Web Development | End to End App (Trello) Using DOM and Express | 20/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 5735,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_YgWaHixk6Ppjaj7Et_3sdVK09bZ-YSxY",
+      "courseId": "24",
+      "parentId": "7396",
+      "title": "Memory | Class by Samiksha | 20/06/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 5648,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_osTIsZZURQkNt9A4g6mgZPmKutwoJGud",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 10 - AI&ML | RAG Continuation - Part 2 | 23/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 5412,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Db9IR3JgpzWOoogZgbkykCiK_4Z1RNcg",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "DEX, AMMs and Liquidity pools [ Cohort 3 ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 15,
+      "durationSecs": 9409,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__PHUj4fOsZOZMciyKiQF9A_YWOpEuE5O",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 11 - AI&ML | Recursive Language Model | 28/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 5741,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PrzTg6Bp7-lQrMPDOB4s3F-aV64NIjzY",
+      "courseId": "24",
+      "parentId": "7396",
+      "title": "Memory II | Class by Samiksha | 21/06/2026 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 3302,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_kA6FDy5PVUhwkX-IK4imOQPsck0KbDVx",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 11 - Web Development | Databases | 27/03/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 5488,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_WQO11Ok7Vo4wyLralmt2bR7owhD0_5fb",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 13.1 - DSA | Binary Search ( Offline Video ) | 14/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 5198,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_WzHeLJV3wgtZqEfiJ8s1EpKtGmiI90z6",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 12 - Web3 | Rust for Solana | 06/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 16,
+      "durationSecs": 5596,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_VJAQGwdThbA901X60zRGmEshN_UEglH1",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 14 - DSA | Number Theory Basics | 16/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 7888,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_veeXj8ABJM3y0xbtsu0vQFX8iFUYjqGj",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 12 - AI&ML | Fine-tuning | 04/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 6353,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_GjPKkD7NcXhh5BtkAfyq9vC4oNRLnF6J",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 12 (Offline): Migrating Trello to MongoDB | 05/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 3134,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_DsJz9GQaklwXDhBuKWo1JQ9F8q2gd2P4",
+      "courseId": "24",
+      "parentId": "6924",
+      "title": "Building Youtube - Part 1 | [100xSchool Offline Lecture]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 7108,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_4bq0HzEB62-wWjSaE5FCIVGWdyhAt-UW",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Multithreading and Async in Rust | Super 30 Class [ Offline Video ]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 17,
+      "durationSecs": 5116,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rIMOVL-4DDYmLcuRMnATFsZISFTIqY1S",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 15 - DSA | Bit Manipulation | 23/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 8642,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_D15hlrq_De4G-_M3DvuMhLGAnvd-Z1aC",
+      "courseId": "24",
+      "parentId": "6924",
+      "title": "Building Youtube - Part 2 | [100xSchool Offline Lecture]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 6409,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_-UxvkOFxf9eBUucgXATW9vQs8bb8I0Ac",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 13 - AI&ML | Fine-tuning - Part 2 | 11/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 6260,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_4mBcUEW6h2IYPlC9rSZk3iugOI4wjf5_",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 13 (Offline): Rust for Solana - Part 2 | 18/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 18,
+      "durationSecs": 3060,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_yMLkAeDQ5kI4DR1b5x-zvokMLXvFx0ep",
+      "courseId": "24",
+      "parentId": "6924",
+      "title": "Building Youtube - Part 3 | [100xSchool Offline Lecture]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 4963,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_1TvJLQLHlU0iA0--0JU3rpw1z5bSw-sb",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 14 - AI&ML | Fine-tuning - Part 3 | 17/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 5720,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_HmIe53hPBC9P2m5FRkdRAfRMhMprfiJF",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 14 - Web3 | Rust for Solana - Part 3 | 19/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 4730,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_rrjmCYlLSkfjsj6Joi0rDQxoJCgPnn7H",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 15.1 - DSA | Bit Manipulation - Part 2 | 26/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 8861,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_0XqAP9n-er7OLS-qOcsHQOGjqZpZCWTZ",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "(Extra, Not for Beginners) | AppX Schema Designing | [100xSchool Offline Lecture]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 19,
+      "durationSecs": 5295,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_w5RK-76L2KkhBhwSHrW6CZSLew2MQv81",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 13.1 (Offline): Relationships and Joins in SQL | 17/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 20,
+      "durationSecs": 3837,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_uk77U7f_xM2FU2mL9de5QGL0NwGOBVvh",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 15 - AI&ML | RLVR | 25/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 20,
+      "durationSecs": 5872,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_vTLmEWwQIw4eFEYsdTzUMOA0d4Zib8ah",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 15 - Web3 | Rust for Solana - Part 4 | 26/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 20,
+      "durationSecs": 6404,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Taxegebovza3IqJiOd39sVdv4dIb5cTm",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 16 - DSA | Recursion | 30/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 20,
+      "durationSecs": 7738,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_5_9Sek2yQzsEkNzNW00HUCD4pcdOcPBO",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 16 - Web3 | Rust for Solana - Part 5 | 03/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 21,
+      "durationSecs": 6152,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_IgAi_JxvJ_BL7KNkPU9EenEaiUG85jG3",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 17 - DSA | Recursion - II | 07/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 21,
+      "durationSecs": 8271,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_bUUIkKn0zffE5PBJrHnKzAMYwlpG1BBv",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 14 - Web Development | Type Safety with Zod and Password Hashing | 18/04/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 21,
+      "durationSecs": 3691,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_jh_4D0EtVVQBu65mkK2qJaq-gAPuFkqP",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 18 - DSA | Backtracking - I | 12/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 7010,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_9XFKRI1GGL-3yZD0k4G1xAsZ1qJFhPe7",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "Eth Wallet Adapters",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 7060,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_A9VJ99yitYILHPNOie9dnLSMAtoytNYJ",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 17 - Web3 | Your First Solana Program | 10/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 4627,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_fBSkbWO4dSBKomMsWAsJvheMfVIEsjXd",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 16 - AI&ML | Offline: RL Environments for LLMs | 08/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 22,
+      "durationSecs": 4247,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_5e-Y8vkqmohRpm-1Yi7zvcYJrdz8CmTH",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 17 - AI&ML | Harness, Context, and Evals | 09/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 23,
+      "durationSecs": 7678,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_b2Jcihv7GzRThbHPzuFbS_WlOL9_nlX6",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "Impermanent loss, Creating a Liquidity pool",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 23,
+      "durationSecs": 7294,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_GJrtEPQlaW81IQ80bO-_iGXQfa8YuezT",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 19.1 - DSA | Backtracking - II | 19/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 23,
+      "durationSecs": 7416,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_s6v215LvgMlpDa--1diVzc-KG-1m5t40",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 18 - Web3 | Solana Contracts | 17/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 23,
+      "durationSecs": 5917,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__RoNMHIvahqLzpAbMj8-FXYLV8PdzDDJ",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 18 - AI&ML | Memory | 16/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 24,
+      "durationSecs": 7388,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_iA38gsrrrMsNlizvWJPrBnkeFOwcOX9N",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 19.2 - DSA | Backtracking - III | 21/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 24,
+      "durationSecs": 7701,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_IxQCuIOfR7uNCTJGLyPZ1YAADqlHqUmr",
+      "courseId": "24",
+      "parentId": "7050",
+      "title": "React from basics (Part 1)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 24,
+      "durationSecs": 8675,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_DHHYyJcSBsL8PYP3yZ4DJtb34ilGANN2",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 20 - Web3 | Programs with PDAs | 31/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 25,
+      "durationSecs": 5897,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Ec9sCRSF28k-oStNBRmZDCT2-R6zVwX1",
+      "courseId": "24",
+      "parentId": "7050",
+      "title": "React from basics (Part 2)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 25,
+      "durationSecs": 3316,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_wcZRAaT7O5iApEq5huw778xe7ZZ4m0jl",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 20 - AI&ML | How To Read Research Papers | 31/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 25,
+      "durationSecs": 3162,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_lY03VO1AKTdi7UNs2wnXzTdpSjACn4Q0",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 20.1 - DSA | Sorting - I | 26/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 25,
+      "durationSecs": 8133,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_L7GY_3JZ5xXRZraF8VfDrYT094Za3Dur",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 17 - Web Development | Starting a New Project | 08/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 25,
+      "durationSecs": 5383,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_QNaxoKf3c1aP7L9uMAEWz7Cm8jrpXRSG",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 20.2 - DSA | Sorting - II | 28/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 26,
+      "durationSecs": 8911,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_d_-owznBv9VthqvzaY02cqC_b8_EC517",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 21 - AI&ML | LangGraph | 06/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 26,
+      "durationSecs": 5013,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_XcB0UOjFJXZ2k4xnBwz0aXrnIYl4NKML",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 22 - Web Development + Web3 | Project Class | 14/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 26,
+      "durationSecs": 7857,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_D8vZLxYnyj2BrtybcNdiYcvPKdPcZGn7",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 21 - DSA | Sorting - III | 04/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 27,
+      "durationSecs": 8925,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_r__hIfWw-1wNXCs-xjxXy-Ykmzd1fbWF",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Prisma and ORMs ( Cohort 3 )",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 27,
+      "durationSecs": 7318,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_O3sXzpRdZCOun8AvWioJqjxOuGxm6v5Q",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "Solidity part 2 (offline)",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 27,
+      "durationSecs": 4269,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_yAuuMOTTKIAqlcPUBa-cjXbbNzPd9tOo",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 22 - AI&ML | Coding an Agent (Assignment) | 13/12/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 27,
+      "durationSecs": 4862,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_NrYjWuu0YwbghnqtTdG8k89TzNvll8qg",
+      "courseId": "24",
+      "parentId": "4069",
+      "title": "Week 23 - Web3 | Anchor - Part 1 | 21/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 27,
+      "durationSecs": 5523,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_b5-mMYgzQqQncj7GjNFCckJIhHrwiaLc",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 22.1 - DSA | Pointers and Memory Management | 09/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 28,
+      "durationSecs": 9099,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_51_F-WbNv0JBc1yWxy07Y8q_tzXYFuIf",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "Payable, CCIs in Eth",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 28,
+      "durationSecs": 6364,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Kc5jEcZ1UeWhjw5I5gsCvyCScQhE1SIt",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 22.2 - DSA | (Part 1) Pointers and Memory Management - II | 11/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 29,
+      "durationSecs": 7991,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_MU3hbWYqKdMrA_6E2OsCforvX4ic0Y7C",
+      "courseId": "24",
+      "parentId": "7265",
+      "title": "State management using Recoil",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 29,
+      "durationSecs": 8508,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_kBeagIQHDCqm9jCoUqvaX67qS3xiQkT_",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 23 - AI&ML | Hugging Face End-to-End | 20/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 29,
+      "durationSecs": 5390,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_qOYGL5rX0HqbT0CU2vwsSnq3NLWgJ1gK",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 18 - Web Development | React: Part 1 | 15/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 29,
+      "durationSecs": 3587,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hAGyQj5VuY6_xxbK6MIiyNyunRHTb1Lx",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 19 - Web Development | React Part 2 | 22/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 30,
+      "durationSecs": 5137,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_IQEzBiiTN8qfmsFczPekAC4FXN3taqGK",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "ERC-20 and OpenZeplin contracts",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 30,
+      "durationSecs": 7919,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_IUG03s_fhf2ulh61Ybszr7I2b12TfucS",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 22.2 - DSA | (Part 2) Pointers and Memory Management - II | 11/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 30,
+      "durationSecs": 489,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PayPsjsteXR5mpNh4DCo7e-sE5HyHOSM",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "Hardhat, Ganache, Foundry ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 31,
+      "durationSecs": 8662,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_gG83b3djezbs4hNCaBl-QiOytEtReqNT",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 23.1 - DSA | Linked List - I | 16/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 31,
+      "durationSecs": 8908,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_k01RPSXOsB7lvRSp8vWCmEY1mb8qQ-UK",
+      "courseId": "24",
+      "parentId": "4056",
+      "title": "Week 24 - AI&ML | LLM Observability | 01/07/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 31,
+      "durationSecs": 6326,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_gglAHXM4SJGfPAeS6BgJbNZv_OVyWXtN",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 23.2 - DSA | Linked List - II | 18/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 32,
+      "durationSecs": 8456,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_2Sad31rUhsSgssA1eiUkjuL8YVi4N70v",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "Bridges , building and EVM bridge",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 32,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_inlan94ZYuyuxQQvVsv8YYG8nehkUdjw",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 24.1 - DSA | Linked List - III | 23/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 33,
+      "durationSecs": 10267,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_zSEZFWyF6Jng1IChEFPmAVnhTNf_tk1S",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 20 - Web Development | React Part 3 | 29/05/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 33,
+      "durationSecs": 7055,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_oeKfJ2rhj87h6LCLteBg2kYfljIR7_Rb",
+      "courseId": "24",
+      "parentId": "7279",
+      "title": "Tailwind, ref arrays and building components",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 33,
+      "durationSecs": 7933,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_vBVBpNMxuc1VHOIfm3uxLDPXMY2SxVHG",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "Building a Bridge",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 33,
+      "durationSecs": 7119,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_Z2afgSMCtgy62EOcOQgkt2a2hkZt89i2",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 24.2 - DSA | Linked List - IV | 25/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 34,
+      "durationSecs": 9033,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_hszDmI01L4tLwkwcS_7IQVXyUD5CF2w2",
+      "courseId": "24",
+      "parentId": "7279",
+      "title": "Tailwind Part 2, Creating sidebars",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 34,
+      "durationSecs": 7436,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tk_lzamErxyctFLkCzhKefcKQwCd2RVI",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 21 - Web Development | (Part-1) React Part 4 | 05/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 34,
+      "durationSecs": 3387,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_R5lpu08vUbgfc5UnHOx6jcXXQccSc3_F",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "Upgradability in ETH  [Offline]",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 35,
+      "durationSecs": 9358,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_QnHL1Tzt5w6KJz-3jL_YDqhwmJWf15oC",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 21 - Web Development | (Part-2) React Part 4 | 05/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 35,
+      "durationSecs": 2475,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_iScn52cY1iKIEC6boH6LnUdqDNlOl2Qf",
+      "courseId": "24",
+      "parentId": "4058",
+      "title": "Week 25 - DSA | Stack & Queue - I | 02/07/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 35,
+      "durationSecs": 7768,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_JglL1Tk-NeYeTJeA23NbeZz7IT4oskaT",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 22 - Web Development + Web3 | Project Class | 14/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 36,
+      "durationSecs": 7857,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_o_hd-pZm9J9zbFjtSH8EjEd-ta4kkZbE",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "Building a proxy staking contract",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 36,
+      "durationSecs": 7346,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_LDbFF3zEpAGjkbE3Lq4P9pky9efHES-J",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "Upgradable staking contracts \u2014 Continued ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 37,
+      "durationSecs": 7937,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_BKEb7Qhc28a1oeiTrxEdYqkMdfLugzif",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 23 - Web Development | React Query and State Management | 19/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 37,
+      "durationSecs": 5546,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_FDPJwVapy7s_Ni1tRTiet8RTOlbhGmMa",
+      "courseId": "24",
+      "parentId": "4252",
+      "title": "ETH end to end app",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 38,
+      "durationSecs": 8509,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_PUzHQFRMxJ9YK8edTD_B-vZqAIGRz0T7",
+      "courseId": "24",
+      "parentId": "5016",
+      "title": "Ui/Ux Primitives by Keshav - Part 1 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 40,
+      "durationSecs": 8941,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_CkjiYAYw58jmAaobsH6EYajq_tGCLesc",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 24 - Web Development | Queues, Pub Sub, and Async Backend Communication | 26/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 40,
+      "durationSecs": 5111,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_xbscI9joJxEEUsGKl42YWUpLyLPQq1r_",
+      "courseId": "24",
+      "parentId": "6911",
+      "title": "Week 24 - Web Development | LeetCode - Part 2 | 28/06/2026",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 41,
+      "durationSecs": 5169,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_0Y8ZiCvwC0Ygg_YnHw_xBr5dqGR5dAt6",
+      "courseId": "24",
+      "parentId": "5016",
+      "title": "Ui/Ux Primitives by Keshav - Part 2 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 41,
+      "durationSecs": 8247,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_LjZRAFhcEMnr6UPfdiLtPVTuX4D5LKIt",
+      "courseId": "24",
+      "parentId": "6945",
+      "title": "Building PayTM Project",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 48,
+      "durationSecs": 7553,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_mgbhI7U46Va4v4y8uDy3_RrzxMkFP1nd",
+      "courseId": "24",
+      "parentId": "6945",
+      "title": "PayTM Frontend",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 50,
+      "durationSecs": 3862,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_ZVoE0d2a4ijZ4IByd3X6TxeLgEiXdiWy",
+      "courseId": "24",
+      "parentId": "5015",
+      "title": " Freelancing Masterclass",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 75,
+      "durationSecs": 8517,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_65uIu_gDc1mkD4pJA1af0qzWT7tGd8b7",
+      "courseId": "24",
+      "parentId": "5015",
+      "title": "Freelancing Masterclass part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 76,
+      "durationSecs": 8504,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_WDyXTXOd1NVQW23uH9ywGnXt-tnwsUr3",
+      "courseId": "24",
+      "parentId": "6945",
+      "title": "PayTM part 1",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 92,
+      "durationSecs": 7159,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_tpe7fqJMq_tANpySntDjzrpL-tq3MFVQ",
+      "courseId": "24",
+      "parentId": "6945",
+      "title": "PayTM Part 2",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 93,
+      "durationSecs": 6288,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_0XKjrTcfZlnzZVEFlW8hfJWWbK05Fij-",
+      "courseId": "24",
+      "parentId": "6945",
+      "title": "PayTM Part 3 ",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 94,
+      "durationSecs": 5386,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_W7n1PusQHm3e65USckcnuamB1V1qEHXe",
+      "courseId": "24",
+      "parentId": "6945",
+      "title": "PayTM Part 4",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 95,
+      "durationSecs": 2332,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview_30JO_uyNlqAio4-NJh3ivT5f-f0LOhzm",
+      "courseId": "24",
+      "parentId": "6945",
+      "title": "Adhoc Coding - PayTM Merchant App",
+      "description": null,
+      "materialType": "VIDEO",
+      "thumbnail": null,
+      "sorting": 147,
+      "durationSecs": 8128,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "search"
+      ]
+    },
+    {
+      "id": "preview__V5NB70OtpnrJEkkBeeBjcVXKDF0p8Fk",
+      "courseId": "24",
+      "parentId": null,
+      "title": "Discord Invite",
+      "description": null,
+      "materialType": "LINK",
+      "thumbnail": null,
+      "sorting": 1,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "3860",
+      "courseId": "24",
+      "parentId": null,
+      "title": "Syllabus",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 2,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "3866",
+      "courseId": "24",
+      "parentId": null,
+      "title": "Warmup Videos",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 3,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "preview_b9QYfJbGCWxrG-4txIw0vYB-F1TAl_me",
+      "courseId": "24",
+      "parentId": null,
+      "title": "Slides and Assignments",
+      "description": null,
+      "materialType": "LINK",
+      "thumbnail": null,
+      "sorting": 4,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "6911",
+      "courseId": "24",
+      "parentId": null,
+      "title": " Web Dev + Devops Bootcamp",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 6,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4069",
+      "courseId": "24",
+      "parentId": null,
+      "title": "Web3 Bootcamp",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 7,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4056",
+      "courseId": "24",
+      "parentId": null,
+      "title": "AI&ML Bootcamp",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 8,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4058",
+      "courseId": "24",
+      "parentId": null,
+      "title": "DSA Bootcamp",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 9,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4902",
+      "courseId": "24",
+      "parentId": null,
+      "title": "React Native ( Optional / Bonus Sessions )",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 10,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4110",
+      "courseId": "24",
+      "parentId": null,
+      "title": "Extra Guest Lectures (Optional)",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 11,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    },
+    {
+      "id": "4954",
+      "courseId": "24",
+      "parentId": null,
+      "title": "Extra Content ( Optional )",
+      "description": null,
+      "materialType": "FOLDER",
+      "thumbnail": null,
+      "sorting": 12,
+      "durationSecs": null,
+      "url": null,
+      "externalLinks": [],
+      "progress": null,
+      "childCounts": {
+        "videos": 0,
+        "files": 0,
+        "tests": 0,
+        "folders": 0
+      },
+      "_seenIn": [
+        "root"
+      ]
+    }
+  ]
+}

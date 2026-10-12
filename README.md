@@ -1,39 +1,48 @@
-# 100xdevs.com — casual API security notes
+# 100xdevs
 
-Personal weekend recon on [100xdevs](https://100xdevs.com/) and `course-backend.100xdevs.com`. Not a formal pentest deliverable — just scripts, raw probe output, and write-ups of what looked interesting.
+Research workspace: API probes, JSON snapshots, and findings for 100xdevs surfaces.
 
-**Write-up:** [FINDINGS.md](./FINDINGS.md)
+## Why this exists
+
+Security research needs reproducible probes and frozen responses. This repo holds scripts, `data/` captures, and narrative findings for authorized review.
+
+## Features
+
+- Python probe scripts under `scripts/`
+- Captured JSON under `data/`
+- pytest smoke and auth audit tests
+
+## Install
+
+```bash
+git clone https://github.com/HackerX-offical/100xdevs.git
+cd 100xdevs
+python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt
+```
 
 ## Quick start
 
 ```bash
-cp .env.example .env
-# Optional: paste a session JWT from your own account for authenticated probes
-export COURSE_API_BEARER='...'
-
-python3 scripts/probe_api.py
-python3 scripts/scrape_public_content.py   # unauthenticated syllabus metadata
+pytest tests -q
 ```
 
-## Repo layout
+## Output
 
-```
-├── FINDINGS.md              # What I found (and what did not break)
-├── data/
-│   ├── api-coverage.json    # Route probe snapshot
-│   ├── public-content/      # Unauthenticated metadata scrape
-│   └── *.json               # Other probe outputs
-├── scripts/                 # Python helpers
-└── proofs/                  # One-liner repro shells
+JSON snapshots in `data/` and markdown in `FINDINGS.md`.
+
+## Develop
+
+```bash
+pytest tests -q
 ```
 
-## Disclaimer
+## Architecture
 
-Test only systems you are allowed to test. These scripts default to read-only probing. Do not use findings to harass users, spam OTPs, or bypass paywalls.
+See [ARCHITECTURE.md](./ARCHITECTURE.md) for module layout and extension points.
 
 ## Ethics
 
-Use only on systems and content you are **authorized** to access. See [SECURITY.md](./SECURITY.md).
+Use only on systems and content you are **authorized** to test. See [SECURITY.md](./SECURITY.md).
 
 ## License
 

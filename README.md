@@ -30,3 +30,8 @@ python3 scripts/scrape_public_content.py   # unauthenticated syllabus metadata
 ## Disclaimer
 
 Test only systems you are allowed to test. These scripts default to read-only probing. Do not use findings to harass users, spam OTPs, or bypass paywalls.
+
+## License
+
+Licensed under the [HackerX License](./LICENSE). Redistributions must retain copyright,
+license text, and [NOTICE](./NOTICE) attribution per the license terms.

@@ -15,11 +15,6 @@ BASE = os.environ.get("COURSE_API_BASE", "https://course-backend.100xdevs.com").
 TOKEN = os.environ.get("COURSE_API_BEARER", "")
 ORIGIN = os.environ.get("COURSE_ORIGIN", "https://100xdevs.com")
 
-if not TOKEN:
-    print("Set COURSE_API_BEARER", file=sys.stderr)
-    sys.exit(1)
-
-
 @dataclass
 class Finding:
     id: str
@@ -50,6 +45,10 @@ def api(method: str, path: str, body: dict | None = None, instance: str | None =
 
 
 def main() -> int:
+    if not TOKEN:
+        print("Set COURSE_API_BEARER", file=sys.stderr)
+        return 1
+
     findings: list[Finding] = []
 
     st, me = api("GET", "/auth/me")

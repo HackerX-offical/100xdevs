@@ -15,7 +15,7 @@ Security research needs reproducible probes and frozen responses. This repo hold
 ## Install
 
 ```bash
-git clone https://github.com/HackerX-offical/100xdevs.git
+git clone https://github.com/HackerX-official/100xdevs.git
 cd 100xdevs
 python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements.txt
 ```

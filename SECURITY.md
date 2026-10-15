@@ -1,6 +1,6 @@
 # Security and authorized use
 
-Software published by [HackerX Official](https://github.com/HackerX-offical) is intended for
+Software published by [HackerX Official](https://github.com/HackerX-official) is intended for
 **defensive security research, authorized penetration testing, and education** with explicit
 permission on the systems you test.
 
